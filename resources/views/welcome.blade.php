@@ -26,7 +26,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="/">RC</a></h1>
+        <h1><a href="/"><img src="/img/rc2048.png"> </a></h1>
       </div>
 
       <nav id="navbar" class="navbar">
@@ -49,7 +49,7 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
           <h1 data-aos="fade-up">İşyerinizi bizimle birlikte büyütün</h1>
           <h2 data-aos="fade-up" data-aos-delay="400">40 yıllık profesyonel deneyimlerimizi sizinle paylaşıyoruz.</h2>
           <div data-aos="fade-up" data-aos-delay="800">
@@ -100,10 +100,9 @@
         <div class="section-title" data-aos="fade-up">
           <h2>Hakkımızda</h2>
         </div>
-
         <div class="row content">
 
-          <div class="col-lg-6 pt-4 pt-lg-0 m-auto" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-6 pt-2 pt-lg-0 m-auto" data-aos="fade-up" data-aos-delay="300">
             <p>
                 Gastronomi ve turizm alanındaki 40 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar&cafeler ve
                 oteller olmak üzere faaliyete başlamış ancak istenilen seviyeye ulaşamamış olan veya yeni kurulacak işletmelere proje
@@ -115,7 +114,30 @@
         </div>
 
       </div>
+
+        <div class="container mt-5">
+            <div class="section-title" data-aos="fade-up">
+                <h2>NEDEN BİZİ SEÇMELİSİNİZ</h2>
+            </div>
+            <div class="row content">
+            <div class="col-lg-6 pt-2 pt-lg-0 m-auto" data-aos="fade-up" data-aos-delay="150">
+                <ul>
+                    <li><i class="ri-check-double-line"></i>Mesleği̇nde uzman deneyi̇mli̇ danişmaniniz doğru yatirim yapmaniza neden olacaktir.</li>
+                    <li><i class="ri-check-double-line"></i> Danişman i̇şletmede sonuçlarin kötü olabi̇lmesi̇ni̇ önleyecekti̇r.</li>
+                    <li><i class="ri-check-double-line"></i>  Danişman kurum ve fi̇rmalarla doğru ve gerekli̇ kararlari aldirmayi sağlayan fi̇ki̇r veri̇ci̇ deneyi̇mli̇ ki̇şi̇lerdi̇r.
+                        Bu si̇ze zaman ve kazanç sağlar.</li>
+                    <li><i class="ri-check-double-line"></i>Konsept seçi̇mi̇ ve menü yapmak ustalik ve deneyi̇m i̇ster doğru ki̇şi̇ler si̇ze önce presti̇j sonra yüksek ci̇rolu
+                        i̇şletme kazandirir.</li>
+                    <li><i class="ri-check-double-line"></i> Danişman eği̇ti̇lmi̇ş personelle müşteri̇leri̇ni̇zi̇n memnuni̇yeti̇ni̇ ve eki̇pmanlarinizin korunmasini sağlar.</li>
+                    <li><i class="ri-check-double-line"></i> Danişman tedari̇kçi̇lerden si̇zi̇n aldiğiniz fi̇yatlardan daha uygun fi̇yat alarak i̇şletmeye geli̇r sağlar.</li>
+                    <li><i class="ri-check-double-line"></i> Danişmaniniz i̇şletmeni̇n geli̇ri̇ni̇ arttirmak i̇çi̇n alternati̇fler üreti̇r.</li>
+                    <li><i class="ri-check-double-line"></i>  Danişman kali̇te ve hi̇jyen standartlarini oluşturarak müşteri̇lere güven kazandirir.</li>
+                </ul>
+            </div>
+            </div>
+        </div>
     </section><!-- End About Us Section -->
+
 
     <!-- ======= Counts Section ======= -->
     <section id="counts" class="counts">
@@ -175,11 +197,11 @@
 
           <div class="row" data-aos="fade-up" data-aos-delay="300">
 
-              <div class="col-lg-3 col-md-4">
-                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+              <div class="col-lg-3 col-md-4 mt-3 position-relative">
+                  <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
                       <i class="ri-store-line" style="color: #ffbb2c;"></i>
                       <h3>İşyeri projelendirme ve kuruluşu
-                          </h3>
+                          </h3>   <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample">
                       <div class="card card-body border-0">
@@ -188,11 +210,11 @@
                   </div>
               </div>
 
-              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-                  <div class="icon-box dropdown-toggle"  type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2">
+              <div class="col-lg-3 col-md-4 mt-4 position-relative">
+                  <div class="icon-box"  type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2">
                       <i class="ri-bar-chart-box-line" style="color: #5578ff;"></i>
                       <h3>Bütçe ve maliyet oluşturulması
-                      </h3>
+                      </h3>   <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample2">
                       <div class="card card-body border-0">
@@ -200,10 +222,10 @@
                       </div>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3">
+              <div class="col-lg-3 col-md-4 mt-4 position-relative">
+                  <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3">
                       <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-                      <h3>İşyerinin Swot analizi</h3>
+                      <h3>İşyerinin Swot analizi</h3> <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample3">
                       <div class="card card-body border-0">
@@ -211,11 +233,11 @@
                       </div>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
-                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample4" aria-expanded="false" aria-controls="collapseExample4">
+              <div class="col-lg-3 col-md-4 mt-4 position-relative">
+                  <div class="icon-box " type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample4" aria-expanded="false" aria-controls="collapseExample4">
                       <i class="ri-paint-brush-line" style="color: #e361ff;"></i>
                       <h3>Tedarikçilerle anlaşmalar
-                          </h3>
+                          </h3> <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample4">
                       <div class="card card-body border-0">
@@ -223,11 +245,11 @@
                       </div>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample5" aria-expanded="false" aria-controls="collapseExample5">
+              <div class="col-lg-3 col-md-4 mt-4 position-relative">
+                  <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample5" aria-expanded="false" aria-controls="collapseExample5">
                       <i class="ri-database-2-line" style="color: #47aeff;"></i>
                       <h3>Butik otel ve üzeri işletmelere eğitim
-                         </h3>
+                         </h3>  <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample5">
                       <div class="card card-body border-0">
@@ -235,11 +257,11 @@
                       </div>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample6" aria-expanded="false" aria-controls="collapseExample6">
+              <div class="col-lg-3 col-md-4 mt-4 position-relative">
+                  <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample6" aria-expanded="false" aria-controls="collapseExample6">
                       <i class="ri-gradienter-line" style="color: #ffa76e;"></i>
                       <h3>Hizmet kalite ve standardlarını oluşturmak
-                          </h3>
+                          </h3>  <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample6">
                       <div class="card card-body border-0">
@@ -247,11 +269,11 @@
                       </div>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample7" aria-expanded="false" aria-controls="collapseExample7">
+              <div class="col-lg-3 col-md-4 mt-4 position-relative">
+                  <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample7" aria-expanded="false" aria-controls="collapseExample7">
                       <i class="ri-file-list-3-line" style="color: #11dbcf;"></i>
                       <h3>İşletmeye personel sağlama
-                         </h3>
+                         </h3>   <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample7">
                       <div class="card card-body border-0">
@@ -259,11 +281,11 @@
                       </div>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample8" aria-expanded="false" aria-controls="collapseExample8">
+              <div class="col-lg-3 col-md-4 mt-4 position-relative">
+                  <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample8" aria-expanded="false" aria-controls="collapseExample8">
                       <i class="ri-price-tag-2-line" style="color: #4233ff;"></i>
                       <h3>Satış pazarlama ve reklam
-                         </h3>
+                         </h3>   <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample8">
                       <div class="card card-body border-0">
@@ -271,11 +293,11 @@
                       </div>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample9" aria-expanded="false" aria-controls="collapseExample9">
+              <div class="col-lg-3 col-md-4 mt-4 position-relative">
+                  <div class="icon-box " type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample9" aria-expanded="false" aria-controls="collapseExample9">
                       <i class="ri-anchor-line" style="color: #b2904f;"></i>
                       <h3>Menü ve konsept
-                         </h3>
+                         </h3> <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample9">
                       <div class="card card-body border-0">
@@ -283,10 +305,10 @@
                       </div>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample10" aria-expanded="false" aria-controls="collapseExample10">
+              <div class="col-lg-3 col-md-4 mt-4 position-relative">
+                  <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample10" aria-expanded="false" aria-controls="collapseExample10">
                       <i class="ri-disc-line" style="color: #b20969;"></i>
-                      <h3>Gıda güvenliği</h3>
+                      <h3>Gıda güvenliği</h3>  <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample10">
                       <div class="card card-body border-0">
@@ -294,10 +316,10 @@
                       </div>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample11" aria-expanded="false" aria-controls="collapseExample11">
+              <div class="col-lg-3 col-md-4 mt-4 position-relative">
+                  <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample11" aria-expanded="false" aria-controls="collapseExample11">
                       <i class="ri-base-station-line" style="color: #ff5828;"></i>
-                      <h3>Sosyal medya yönetimi</h3>
+                      <h3>Sosyal medya yönetimi</h3>  <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample11">
                       <div class="card card-body border-0">
@@ -305,10 +327,10 @@
                       </div>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample12" aria-expanded="false" aria-controls="collapseExample12">
+              <div class="col-lg-3 col-md-4 mt-4 position-relative">
+                  <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample12" aria-expanded="false" aria-controls="collapseExample12">
                       <i class="ri-fingerprint-line" style="color: #29cc61;"></i>
-                      <h3>İnsan kaynakları</h3>
+                      <h3>İnsan kaynakları</h3>  <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample12">
                       <div class="card card-body border-0">
@@ -507,7 +529,7 @@
       <div class="row d-flex align-items-center">
         <div class="col-lg-6 text-lg-left text-center">
           <div class="copyright">
-            &copy;<strong>RC Turizm</strong>. Tüm hakları saklıdır.
+           <strong> <img src="/img/rc2048.png" width="48"></strong>  &copy; Tüm hakları saklıdır.
           </div>
         </div>
         <div class="col-lg-6">
