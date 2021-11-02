@@ -31,11 +31,11 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Anasayfa</a></li>
-          <li><a class="nav-link scrollto" href="#about">Hakkimizda</a></li>
+          <li><a class="nav-link scrollto" href="#about">Hakkımızda</a></li>
           <li><a class="nav-link scrollto" href="#services">Servisimiz</a></li>
-          <li><a class="nav-link scrollto" href="#team">Takimimiz</a></li>
-          <li><a class="nav-link scrollto" href="#contact">Bize Ulasin</a></li>
-          <li><a class="getstarted scrollto" href="#contact">Simdi Baslayin</a></li>
+          <li><a class="nav-link scrollto" href="#team">Takımımız</a></li>
+          <li><a class="nav-link scrollto" href="#contact">Bize Ulaşın</a></li>
+          <li><a class="getstarted scrollto" href="#contact">Şimdi Başlayın</a></li>
         </ul>
           <span class="bi bi-list mobile-nav-toggle"></span>
       </nav><!-- .navbar -->
@@ -49,8 +49,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">İşyerinizi bizimle birlikte buyutun</h1>
-          <h2 data-aos="fade-up" data-aos-delay="400">45 yıllık profesyonel deneyimlerimizi size aktariyoruz.</h2>
+          <h1 data-aos="fade-up">İşyerinizi bizimle birlikte büyütün</h1>
+          <h2 data-aos="fade-up" data-aos-delay="400">45 yıllık profesyonel deneyimlerimizi size aktarıyoruz.</h2>
           <div data-aos="fade-up" data-aos-delay="800">
             <a href="#contact" class="btn-get-started scrollto">Simdi Baslayin</a>
           </div>
@@ -105,7 +105,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Hakkimizda</h2>
+          <h2>Hakkımızda</h2>
         </div>
 
         <div class="row content">
@@ -113,8 +113,8 @@
           <div class="col-lg-6 pt-4 pt-lg-0 m-auto" data-aos="fade-up" data-aos-delay="300">
             <p>
                 Gastronomi ve turizm alanındaki 45 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar, cafeler ve
-                oteller olmak üzere faaliyete başlamış ancak istenilen seviyeye ulaşamamış olan veya yeni kurulacak  işletmelere proje
-                aşamasından başlayarak  A dan  Z  ye   danışmanlık hizmeti verebilmektir
+                oteller olmak üzere faaliyete başlamış ancak istenilen seviyeye ulaşamamış olan veya yeni kurulacak işletmelere proje
+                aşamasından başlayarak A'dan Z'ye danışmanlık hizmeti verebilmektir.
 
             </p>
             <a href="#" class="btn-learn-more">Daha Fazla</a>
@@ -139,7 +139,7 @@
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                   <div class="count-box">
                     <i class="bi bi-emoji-smile"></i>
-                      <p><strong>Yuz binlerce kisiyinin</strong> memnuniyetini sagladik.</p>
+                      <p><strong>Yüzbinlerce kişinin</strong> memnuniyetini sağladık.</p>
                   </div>
                 </div>
 
@@ -147,21 +147,21 @@
                   <div class="count-box">
                     <i class="bi bi-journal-richtext"></i>
 
-                      <p><strong>Yuzlerce organizasyonu</strong> basari ile yonettik.</p>
+                      <p><strong>Yüzlerce organizasyonu</strong> başarı ile yönettik.</p>
                   </div>
                 </div>
 
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                   <div class="count-box">
                     <i class="bi bi-clock"></i>
-                      <p><strong>Sektorde 45 yillik</strong> tecrube edindik</p>
+                      <p>Sektörde <strong> 45 yıllık tecrübe</strong> edindik.</p>
                   </div>
                 </div>
 
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                   <div class="count-box">
                     <i class="bi bi-award"></i>
-                    <p><strong>Sayisiz oduller </strong> oduller kazandik.</p>
+                    <p><strong>Sayısız ödüller </strong> kazandık.</p>
                   </div>
                 </div>
               </div>
@@ -272,7 +272,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Takimimiz</h2>
+          <h2>Takımımız</h2>
         </div>
 
         <div class="row">
@@ -294,7 +294,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Rahmi Yilmaz</h4>
+                <h4>Rahmi Yılmaz</h4>
               </div>
             </div>
           </div>
@@ -312,7 +312,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Candan Kadioglu</h4>
+                <h4>Candan Kadıoğlu</h4>
               </div>
             </div>
           </div>
@@ -364,7 +364,7 @@
           </div>
           <div class="col-lg-7">
             <p>
-                Proje işletmelerde faaliyete başladıktan sonra 1 yıl süre içinde rütin kontrollerimiz devam ediyor. </p>
+                Proje işletmelerde faaliyete başladıktan sonra 1 yıl süre içinde rutin kontrollerimiz devam ediyor. </p>
           </div>
         </div><!-- End F.A.Q Item-->
 
@@ -377,7 +377,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Bize Ulasin</h2>
+          <h2>Bize Ulaşın</h2>
         </div>
 
         <div class="row">
@@ -453,13 +453,13 @@
       <div class="row d-flex align-items-center">
         <div class="col-lg-6 text-lg-left text-center">
           <div class="copyright">
-            &copy;Copyright <strong>RC Turizm</strong>. Tum haklari saklidir.
+            &copy;Copyright <strong>RC Turizm</strong>. Tüm hakları saklıdır.
           </div>
         </div>
         <div class="col-lg-6">
           <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
             <a href="#hero" class="scrollto">Anasayfa</a>
-            <a href="#about" class="scrollto">Hakkimizda</a>
+            <a href="#about" class="scrollto">Hakkımızda</a>
             <a href="#services" class="scrollto">Servisimiz</a>
           </nav>
         </div>
