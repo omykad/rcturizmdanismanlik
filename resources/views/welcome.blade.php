@@ -184,81 +184,81 @@
               <div class="col-lg-3 col-md-4">
                   <div class="icon-box">
                       <i class="ri-store-line" style="color: #ffbb2c;"></i>
-                      <h3><a href="">Personel Sağlama
-                          </a></h3>
+                      <h3>Personel Sağlama
+                          </h3>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                   <div class="icon-box">
                       <i class="ri-bar-chart-box-line" style="color: #5578ff;"></i>
-                      <h3><a href="">Calisma Sistemi Kurulması
-                          </a></h3>
+                      <h3>Calisma Sistemi Kurulması
+                      </h3>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                   <div class="icon-box">
                       <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-                      <h3><a href="">Menu olusturulmasi</a></h3>
+                      <h3>Menu olusturulmasi</h3>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                   <div class="icon-box">
                       <i class="ri-paint-brush-line" style="color: #e361ff;"></i>
-                      <h3><a href="">Maliyet çalışması ve kontrolü
-                          </a></h3>
+                      <h3>Maliyet çalışması ve kontrolü
+                          </h3>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4">
                   <div class="icon-box">
                       <i class="ri-database-2-line" style="color: #47aeff;"></i>
-                      <h3><a href="">Tedarikçilerle anlaşmalar
-                          </a></h3>
+                      <h3>Tedarikçilerle anlaşmalar
+                         </h3>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4">
                   <div class="icon-box">
                       <i class="ri-gradienter-line" style="color: #ffa76e;"></i>
-                      <h3><a href="">Yerlesim duzeni
-                          </a></h3>
+                      <h3>Yerlesim duzeni
+                          </h3>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4">
                   <div class="icon-box">
                       <i class="ri-file-list-3-line" style="color: #11dbcf;"></i>
-                      <h3><a href="">Hizmet Kalite ve Standartlar Kontrolu
-                          </a></h3>
+                      <h3>Hizmet Kalite ve Standartlar Kontrolu
+                         </h3>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4">
                   <div class="icon-box">
                       <i class="ri-price-tag-2-line" style="color: #4233ff;"></i>
-                      <h3><a href="">Isyeri projelendirme ve kuruluşu
-                          </a></h3>
+                      <h3>Isyeri projelendirme ve kuruluşu
+                         </h3>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4">
                   <div class="icon-box">
                       <i class="ri-anchor-line" style="color: #b2904f;"></i>
-                      <h3><a href="">Butik otel ve üzeri işletmelere eğitim
-                          </a></h3>
+                      <h3>Butik otel ve üzeri işletmelere eğitim
+                         </h3>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4">
                   <div class="icon-box">
                       <i class="ri-disc-line" style="color: #b20969;"></i>
-                      <h3><a href="">Moton Ideal</a></h3>
+                      <h3>Moton Ideal</h3>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4">
                   <div class="icon-box">
                       <i class="ri-base-station-line" style="color: #ff5828;"></i>
-                      <h3><a href="">Verdo Park</a></h3>
+                      <h3>Verdo Park</h3>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4">
                   <div class="icon-box">
                       <i class="ri-fingerprint-line" style="color: #29cc61;"></i>
-                      <h3><a href="">Flavor Nivelanda</a></h3>
+                      <h3>Flavor Nivelanda</h3>
                   </div>
               </div>
           </div>
