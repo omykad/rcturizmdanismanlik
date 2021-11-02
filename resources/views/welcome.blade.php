@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <title>RC Turizm</title>
+    <meta name="csrf-token" content="{{ csrf_token() }}">
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -50,13 +51,13 @@
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">İşyerinizi bizimle birlikte büyütün</h1>
-          <h2 data-aos="fade-up" data-aos-delay="400">45 yıllık profesyonel deneyimlerimizi size aktarıyoruz.</h2>
+          <h2 data-aos="fade-up" data-aos-delay="400">40 yıllık profesyonel deneyimlerimizi sizinle paylaşıyoruz.</h2>
           <div data-aos="fade-up" data-aos-delay="800">
             <a href="#contact" class="btn-get-started scrollto">Simdi Baslayin</a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
-          <img src="/img/hero-img.png" class="img-fluid animated" alt="">
+          <img src="/img/first.svg" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
@@ -69,30 +70,22 @@
     <section id="clients" class="clients clients">
       <div class="container">
 
-        <div class="row">
+        <div class="row justify-content-center" >
 
-          <div class="col-lg-2 col-md-4 col-6">
-            <img src="/img/clients/client-1.png" class="img-fluid" alt="" data-aos="zoom-in">
+          <div class="col-lg-2 col-md-4 col-12 pb-3 pb-sm-0">
+            <img src="/img/sheraton.png" class="img-fluid" alt="" data-aos="zoom-in">
           </div>
 
-          <div class="col-lg-2 col-md-4 col-6">
-            <img src="/img/clients/client-2.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-lg-2 col-md-4 col-12 pb-3 pb-sm-0">
+            <img src="/img/hilton.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="100">
           </div>
 
-          <div class="col-lg-2 col-md-4 col-6">
-            <img src="/img/clients/client-3.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="200">
+          <div class="col-lg-2 col-md-4 col-12 pb-3 pb-sm-0">
+            <img src="/img/doubletree.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="200">
           </div>
 
-          <div class="col-lg-2 col-md-4 col-6">
-            <img src="/img/clients/client-4.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6">
-            <img src="/img/clients/client-5.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6">
-            <img src="/img/clients/client-6.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500">
+          <div class="col-lg-2 col-md-4 col-12 pb-3 pb-sm-0">
+            <img src="/img/kaya.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300">
           </div>
 
         </div>
@@ -112,9 +105,9 @@
 
           <div class="col-lg-6 pt-4 pt-lg-0 m-auto" data-aos="fade-up" data-aos-delay="300">
             <p>
-                Gastronomi ve turizm alanındaki 45 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar, cafeler ve
+                Gastronomi ve turizm alanındaki 40 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar&cafeler ve
                 oteller olmak üzere faaliyete başlamış ancak istenilen seviyeye ulaşamamış olan veya yeni kurulacak işletmelere proje
-                aşamasından başlayarak A'dan Z'ye danışmanlık hizmeti verebilmektir.
+                aşamasından başlayarak A'dan Z'ye danışmanlık hizmeti vermekteyiz.
 
             </p>
             <a href="#" class="btn-learn-more">Daha Fazla</a>
@@ -130,7 +123,7 @@
 
         <div class="row">
           <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-xl-start" data-aos="fade-right" data-aos-delay="150">
-            <img src="/img/counts-img.svg" alt="" class="img-fluid">
+            <img src="/img/prize.svg" alt="" class="img-fluid">
           </div>
 
           <div class="col-xl-7 d-flex align-items-stretch pt-4 pt-xl-0" data-aos="fade-left" data-aos-delay="300">
@@ -154,7 +147,7 @@
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                   <div class="count-box">
                     <i class="bi bi-clock"></i>
-                      <p>Sektörde <strong> 45 yıllık tecrübe</strong> edindik.</p>
+                      <p>Sektörde <strong> 40 yıllık tecrübe</strong> edindik.</p>
                   </div>
                 </div>
 
@@ -181,84 +174,146 @@
         </div>
 
           <div class="row" data-aos="fade-up" data-aos-delay="300">
+
               <div class="col-lg-3 col-md-4">
-                  <div class="icon-box">
+                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
                       <i class="ri-store-line" style="color: #ffbb2c;"></i>
-                      <h3>Personel Sağlama
+                      <h3>İşyeri projelendirme ve kuruluşu
                           </h3>
                   </div>
+                  <div class="collapse" id="collapseExample">
+                      <div class="card card-body border-0">
+                          İşletmeye lokasyon seçimi yaparak doğru yatırım yaptırmak.
+                      </div>
+                  </div>
               </div>
+
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-                  <div class="icon-box">
+                  <div class="icon-box dropdown-toggle"  type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2">
                       <i class="ri-bar-chart-box-line" style="color: #5578ff;"></i>
-                      <h3>Calisma Sistemi Kurulması
+                      <h3>Bütçe ve maliyet oluşturulması
                       </h3>
+                  </div>
+                  <div class="collapse" id="collapseExample2">
+                      <div class="card card-body border-0">
+                          İşletmenin yıllık kar ve zarar bütçesi ve maliyet çalışmaları ile desteklemek.
+                      </div>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-                  <div class="icon-box">
+                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3">
                       <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-                      <h3>Menu olusturulmasi</h3>
+                      <h3>İşyerinin Swot analizi</h3>
+                  </div>
+                  <div class="collapse" id="collapseExample3">
+                      <div class="card card-body border-0">
+                          Faaliyetteki işletmelere swot analizi yaparak doğru yatırımın yapılmasını sağlamak.
+                      </div>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
-                  <div class="icon-box">
+                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample4" aria-expanded="false" aria-controls="collapseExample4">
                       <i class="ri-paint-brush-line" style="color: #e361ff;"></i>
-                      <h3>Maliyet çalışması ve kontrolü
-                          </h3>
-                  </div>
-              </div>
-              <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box">
-                      <i class="ri-database-2-line" style="color: #47aeff;"></i>
                       <h3>Tedarikçilerle anlaşmalar
-                         </h3>
-                  </div>
-              </div>
-              <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box">
-                      <i class="ri-gradienter-line" style="color: #ffa76e;"></i>
-                      <h3>Yerlesim duzeni
                           </h3>
                   </div>
-              </div>
-              <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box">
-                      <i class="ri-file-list-3-line" style="color: #11dbcf;"></i>
-                      <h3>Hizmet Kalite ve Standartlar Kontrolu
-                         </h3>
+                  <div class="collapse" id="collapseExample4">
+                      <div class="card card-body border-0">
+                          Doğru tedarikci ile işletmeyi buluşturmak ve Kaliteyi ucuza almak Alırken kazanmak.
+                      </div>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box">
-                      <i class="ri-price-tag-2-line" style="color: #4233ff;"></i>
-                      <h3>Isyeri projelendirme ve kuruluşu
-                         </h3>
-                  </div>
-              </div>
-              <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box">
-                      <i class="ri-anchor-line" style="color: #b2904f;"></i>
+                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample5" aria-expanded="false" aria-controls="collapseExample5">
+                      <i class="ri-database-2-line" style="color: #47aeff;"></i>
                       <h3>Butik otel ve üzeri işletmelere eğitim
                          </h3>
                   </div>
+                  <div class="collapse" id="collapseExample5">
+                      <div class="card card-body border-0">
+                          Standartları oluşturmak takım üyelerini eğitimlerle desteklemek.
+                      </div>
+                  </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box">
+                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample6" aria-expanded="false" aria-controls="collapseExample6">
+                      <i class="ri-gradienter-line" style="color: #ffa76e;"></i>
+                      <h3>Hizmet kalite ve standardlarını oluşturmak
+                          </h3>
+                  </div>
+                  <div class="collapse" id="collapseExample6">
+                      <div class="card card-body border-0">
+                          İş yerinde iş başı eğitimlerle kaliteyi arttırmak.
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4">
+                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample7" aria-expanded="false" aria-controls="collapseExample7">
+                      <i class="ri-file-list-3-line" style="color: #11dbcf;"></i>
+                      <h3>İşletmeye personel sağlama
+                         </h3>
+                  </div>
+                  <div class="collapse" id="collapseExample7">
+                      <div class="card card-body border-0">
+                          En doğru ve kaliteli personeli işletmeye kazandırmak.
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4">
+                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample8" aria-expanded="false" aria-controls="collapseExample8">
+                      <i class="ri-price-tag-2-line" style="color: #4233ff;"></i>
+                      <h3>Satış pazarlama ve reklam
+                         </h3>
+                  </div>
+                  <div class="collapse" id="collapseExample8">
+                      <div class="card card-body border-0">
+                          Doğru pazarlama ve reklam ile yüksek gelir elde etmek.
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4">
+                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample9" aria-expanded="false" aria-controls="collapseExample9">
+                      <i class="ri-anchor-line" style="color: #b2904f;"></i>
+                      <h3>Menü ve konsept
+                         </h3>
+                  </div>
+                  <div class="collapse" id="collapseExample9">
+                      <div class="card card-body border-0">
+                          Doğru menü ve konsept işletmeye prestij sağlar.
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4">
+                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample10" aria-expanded="false" aria-controls="collapseExample10">
                       <i class="ri-disc-line" style="color: #b20969;"></i>
-                      <h3>Moton Ideal</h3>
+                      <h3>Gıda güvenliği</h3>
+                  </div>
+                  <div class="collapse" id="collapseExample10">
+                      <div class="card card-body border-0">
+                          Sağlıklı gıda üretimi işletmenin anahtarıdır.
+                      </div>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box">
+                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample11" aria-expanded="false" aria-controls="collapseExample11">
                       <i class="ri-base-station-line" style="color: #ff5828;"></i>
-                      <h3>Verdo Park</h3>
+                      <h3>Sosyal medya yönetimi</h3>
+                  </div>
+                  <div class="collapse" id="collapseExample11">
+                      <div class="card card-body border-0">
+                          En populer sosyal medya araclarini kullanarak isletmeyi yaygin bir markaya cevirmek.
+                      </div>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4">
-                  <div class="icon-box">
+                  <div class="icon-box dropdown-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample12" aria-expanded="false" aria-controls="collapseExample12">
                       <i class="ri-fingerprint-line" style="color: #29cc61;"></i>
-                      <h3>Flavor Nivelanda</h3>
+                      <h3>İnsan kaynakları</h3>
+                  </div>
+                  <div class="collapse" id="collapseExample12">
+                      <div class="card card-body border-0">
+                          Doğru personel seçimi ve doğru pozisyonlara yerleştirme.
+                      </div>
                   </div>
               </div>
           </div>
@@ -353,7 +408,7 @@
           </div>
           <div class="col-lg-7">
             <p>
-                Faaliyetteki  işletmelerde yaşanan  veya beklenen ciroların düşük olmasından kaynaklı tüm problemlere çözüm ortağınız olacağız.             </p>
+                Faaliyetteki  işletmelerde yaşanan  veya beklenen ciroların düşük olmasından kaynaklı tüm isteklerinize yardımcıyız.</p>
           </div>
         </div><!-- End F.A.Q Item-->
 
@@ -377,14 +432,14 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Bize Ulaşın</h2>
+          <h2>Bİze Ulaşın</h2>
         </div>
 
         <div class="row">
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="contact-about">
-              <p>Gastronomi ve turizm alanındaki 45 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar, cafeler ve oteller
+              <p>Gastronomi ve turizm alanındaki 40 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar, cafeler ve oteller
                   olmak üzere faaliyete başlamış ancak istenilen seviyeye ulaşamamış olan veya yeni kurulacak  işletmelere proje aşamasından başlayarak
                   A'dan  Z'ye danışmanlık hizmeti veriyoruz.
               </p>
@@ -418,7 +473,9 @@
           </div>
 
           <div class="col-lg-5 col-md-12" data-aos="fade-up" data-aos-delay="300">
-            <form action="../../../../../Users/tasho/Desktop/Vesperr/forms/contact.php" method="post" role="form" class="php-email-form">
+
+              <form method="POST" action="{{ route('send') }}" class="php-email-form">
+                  @csrf
               <div class="form-group">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Isminiz" required>
               </div>
@@ -431,13 +488,10 @@
               <div class="form-group">
                 <textarea class="form-control" name="message" rows="5" placeholder="Mesajiniz" required></textarea>
               </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Gonder</button></div>
+              <div class="text-center">
+                  <button type="submit">Gonder</button></div>
             </form>
+
           </div>
 
         </div>
@@ -453,7 +507,7 @@
       <div class="row d-flex align-items-center">
         <div class="col-lg-6 text-lg-left text-center">
           <div class="copyright">
-            &copy;Copyright <strong>RC Turizm</strong>. Tüm hakları saklıdır.
+            &copy;<strong>RC Turizm</strong>. Tüm hakları saklıdır.
           </div>
         </div>
         <div class="col-lg-6">
@@ -474,7 +528,6 @@
   <script src="/js/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="/js/glightbox/js/glightbox.min.js"></script>
   <script src="/js/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="/js/php-email-form/validate.js"></script>
   <script src="/js/purecounter/purecounter.js"></script>
   <script src="/js/swiper/swiper-bundle.min.js"></script>
 
