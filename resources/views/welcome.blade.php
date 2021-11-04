@@ -26,17 +26,17 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="/"><img src="../../public/img/rc2048-full.png"> </a></h1>
+        <h1><a href="/"><img src="/img/rc2048-full.png"> </a></h1>
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Anasayfa</a></li>
           <li><a class="nav-link scrollto" href="#about">Hakkımızda</a></li>
-          <li><a class="nav-link scrollto" href="#services">Servisimiz</a></li>
+          <li><a class="nav-link scrollto" href="#services">Hizmetlerimiz</a></li>
           <li><a class="nav-link scrollto" href="#team">Takımımız</a></li>
           <li><a class="nav-link scrollto" href="#contact">Bize Ulaşın</a></li>
-          <li><a class="getstarted scrollto" href="#contact">Şimdi Başlayın</a></li>
+          <li><a class="getstarted scrollto" href="#about">Şimdi Başlayın</a></li>
         </ul>
           <span class="bi bi-list mobile-nav-toggle"></span>
       </nav><!-- .navbar -->
@@ -53,7 +53,7 @@
           <h1 data-aos="fade-up">İşyerinizi bizimle birlikte büyütün</h1>
           <h2 data-aos="fade-up" data-aos-delay="400">40 yıllık profesyonel deneyimlerimizi sizinle paylaşıyoruz.</h2>
           <div data-aos="fade-up" data-aos-delay="800">
-            <a href="#contact" class="btn-get-started scrollto">Simdi Baslayin</a>
+            <a href="#contact" class="btn-get-started scrollto">Şimdi Başlayın</a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
@@ -69,7 +69,9 @@
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients clients">
       <div class="container">
-
+      <div class="section-title" data-aos="fade-up">
+                <h2>Çalıştığımız kurumlar</h2>
+            </div>
         <div class="row justify-content-center" >
 
           <div class="col-lg-2 col-md-4 col-12 pb-3 pb-sm-0">
@@ -88,6 +90,10 @@
             <img src="/img/kaya.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300">
           </div>
 
+          <div class="col-lg-2 col-md-4 col-12 pb-3 pb-sm-0">
+            <img src="/img/nowness.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
+          </div>
+
         </div>
 
       </div>
@@ -104,7 +110,7 @@
 
           <div class="col-lg-6 pt-2 pt-lg-0 m-auto" data-aos="fade-up" data-aos-delay="300">
             <p>
-                Gastronomi ve turizm alanındaki 40 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar&cafeler ve
+                Gastronomi ve turizm alanındaki 40 yıllık profesyonel deneyimlerimizi, sektör içindeki restaurantlar, cafeler ve
                 oteller olmak üzere faaliyete başlamış ancak istenilen seviyeye ulaşamamış olan veya yeni kurulacak işletmelere proje
                 aşamasından başlayarak A'dan Z'ye danışmanlık hizmeti vermekteyiz.
 
@@ -122,7 +128,7 @@
             <div class="row content">
             <div class="col-lg-6 pt-2 pt-lg-0 m-auto" data-aos="fade-up" data-aos-delay="150">
                 <ul>
-                    <li><i class="ri-check-double-line"></i>Mesleği̇nde uzman deneyi̇mli̇ danişmaniniz doğru yatirim yapmaniza neden olacaktir.</li>
+                    <li><i class="ri-check-double-line"></i>Mesleği̇nde uzman deneyi̇mli̇ danişmaniniz doğru yatırım yapmanıza neden olacaktır.</li>
                     <li><i class="ri-check-double-line"></i> Danişman i̇şletmede sonuçlarin kötü olabi̇lmesi̇ni̇ önleyecekti̇r.</li>
                     <li><i class="ri-check-double-line"></i>  Danişman kurum ve fi̇rmalarla doğru ve gerekli̇ kararlari aldirmayi sağlayan fi̇ki̇r veri̇ci̇ deneyi̇mli̇ ki̇şi̇lerdi̇r.
                         Bu si̇ze zaman ve kazanç sağlar.</li>
@@ -218,8 +224,8 @@
                   </div>
                   <div class="collapse" id="collapseExample2">
                       <div class="card card-body border-0">
-                          İşletmenin yıllık kar ve zarar bütçesi ve maliyet çalışmaları ile desteklemek.
-                      </div>
+                      Agresif maliyet yönetimi karlılığınızı arttıracaktır.
+                    </div>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 position-relative">
@@ -284,24 +290,24 @@
               <div class="col-lg-3 col-md-4 mt-4 position-relative">
                   <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample8" aria-expanded="false" aria-controls="collapseExample8">
                       <i class="ri-price-tag-2-line" style="color: #4233ff;"></i>
-                      <h3>Satış pazarlama ve reklam
+                      <h3>Satış, Pazarlama ve Reklam
                          </h3>   <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample8">
                       <div class="card card-body border-0">
-                          Doğru pazarlama ve reklam ile yüksek gelir elde etmek.
+                      Doğru pazarlama ve reklam ile yüksek cirolar gerçekleştirilir.
                       </div>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 position-relative">
                   <div class="icon-box " type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample9" aria-expanded="false" aria-controls="collapseExample9">
                       <i class="ri-anchor-line" style="color: #b2904f;"></i>
-                      <h3>Menü ve konsept
+                      <h3>Konsept ve Menü
                          </h3> <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample9">
                       <div class="card card-body border-0">
-                          Doğru menü ve konsept işletmeye prestij sağlar.
+                      Doğru konsept ve menü işletmeye prestij ile gelir sağlar.
                       </div>
                   </div>
               </div>
@@ -323,8 +329,8 @@
                   </div>
                   <div class="collapse" id="collapseExample11">
                       <div class="card card-body border-0">
-                          En populer sosyal medya araclarini kullanarak isletmeyi yaygin bir markaya cevirmek.
-                      </div>
+                      En popüler sosyal medya araçlarını kullanmak işletmeyi rekabette güçlendirir.
+                    </div>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 position-relative">
@@ -334,7 +340,7 @@
                   </div>
                   <div class="collapse" id="collapseExample12">
                       <div class="card card-body border-0">
-                          Doğru personel seçimi ve doğru pozisyonlara yerleştirme.
+                      Uygun ve eğitimli personel işletmenin kalitesini arttırır.
                       </div>
                   </div>
               </div>
@@ -419,7 +425,7 @@
           </div>
           <div class="col-lg-7">
             <p>
-                Proje yatırımlar piyasa ve rekabet  koşullarıda göz önüne alınarak 3 yıl ve üzeri sürede geri dönmesi beklenmektedir.</p>
+                Proje yatırımlar piyasa ve rekabet koşullarıda göz önüne alınarak 3 yıl ve üzeri sürede geri dönmesi beklenmektedir.</p>
           </div>
         </div><!-- End F.A.Q Item-->
 
@@ -430,7 +436,8 @@
           </div>
           <div class="col-lg-7">
             <p>
-                Faaliyetteki  işletmelerde yaşanan  veya beklenen ciroların düşük olmasından kaynaklı tüm isteklerinize yardımcıyız.</p>
+            Evet. Faaliyetteki işletmelerde yaşanan veya beklenen ciroların düşük olmasından kaynaklı
+tüm isteklerinize çözüm ortağıyız.</p>
           </div>
         </div><!-- End F.A.Q Item-->
 
@@ -454,7 +461,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Bİze Ulaşın</h2>
+          <h2>Bize Ulaşın</h2>
         </div>
 
         <div class="row">
@@ -478,7 +485,7 @@
             <div class="info">
               <div>
                 <i class="ri-map-pin-line"></i>
-                <p>Izmir</p>
+                <p>İzmir</p>
               </div>
 
               <div>
@@ -499,23 +506,21 @@
               <form method="POST" action="{{ route('send') }}" class="php-email-form">
                   @csrf
               <div class="form-group">
-                <input type="text" name="name" class="form-control" id="name" placeholder="Isminiz" required>
+                <input type="text" name="name" class="form-control" id="name" placeholder="İsminiz" required>
               </div>
               <div class="form-group">
                 <input type="email" class="form-control" name="email" id="email" placeholder="Mail Adresiniz" required>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Konu Basligi" required>
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Konu Başlığı" required>
               </div>
               <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" placeholder="Mesajiniz" required></textarea>
+                <textarea class="form-control" name="message" rows="5" placeholder="Mesajınız" required></textarea>
               </div>
               <div class="text-center">
-                  <button type="submit">Gonder</button></div>
+                  <button type="submit">Gönder</button></div>
             </form>
-
           </div>
-
         </div>
 
       </div>
@@ -536,7 +541,10 @@
           <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
             <a href="#hero" class="scrollto">Anasayfa</a>
             <a href="#about" class="scrollto">Hakkımızda</a>
-            <a href="#services" class="scrollto">Servisimiz</a>
+            <a href="#services" class="scrollto">Hizmetlerimiz</a>
+            <a href="#team" class="scrollto">Takımımız</a>
+            <a href="#contact" class="scrollto">Bize Ulaşın</a>
+            <a href="#about" class="scrollto">Şimdi Başlayın</a>
           </nav>
         </div>
       </div>
