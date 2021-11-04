@@ -26,7 +26,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="/"><img src="/img/rc2048.png"> </a></h1>
+        <h1><a href="/"><img src="../../public/img/rc2048-full.png"> </a></h1>
       </div>
 
       <nav id="navbar" class="navbar">
