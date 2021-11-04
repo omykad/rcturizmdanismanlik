@@ -9,7 +9,7 @@
   <meta content="" name="keywords">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">  <link href="/css/style.css" rel="stylesheet">
-    <link href="/css/style.css?3" rel="stylesheet">
+    <link href="/css/style.css?4" rel="stylesheet">
     <link href="/js/aos/aos.css" rel="stylesheet">
     <link href="/js/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="/js/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
@@ -380,7 +380,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" >
             <div class="member m-auto" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <img src="/img/candan.jpeg" class="img-fluid" style="height: 400px;width:300px;object-fit: cover;" alt="">
+                <img src="/img/candan.jpeg?2" class="img-fluid" style="height: 400px;width:300px;object-fit: cover;" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
