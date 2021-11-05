@@ -9,7 +9,7 @@
   <meta content="" name="keywords">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">  <link href="/css/style.css" rel="stylesheet">
-    <link href="/css/style.css?4" rel="stylesheet">
+    <link href="/css/style.css?5" rel="stylesheet">
     <link href="/js/aos/aos.css" rel="stylesheet">
     <link href="/js/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="/js/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
@@ -26,14 +26,14 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="/"><img src="/img/rc2048.png"> </a></h1>
+        <h1><a href="/"><img src="/img/rc-full2048.png"> </a></h1>
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Anasayfa</a></li>
           <li><a class="nav-link scrollto" href="#about">Hakkımızda</a></li>
-          <li><a class="nav-link scrollto" href="#services">Servisimiz</a></li>
+          <li><a class="nav-link scrollto" href="#services">Hizmetlerimiz</a></li>
           <li><a class="nav-link scrollto" href="#team">Takımımız</a></li>
           <li><a class="nav-link scrollto" href="#contact">Bize Ulaşın</a></li>
           <li><a class="getstarted scrollto" href="#contact">Şimdi Başlayın</a></li>
@@ -51,9 +51,9 @@
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
           <h1 data-aos="fade-up">İşyerinizi bizimle birlikte büyütün</h1>
-          <h2 data-aos="fade-up" data-aos-delay="400">40 yıllık profesyonel deneyimlerimizi sizinle paylaşıyoruz.</h2>
-          <div data-aos="fade-up" data-aos-delay="800">
-            <a href="#contact" class="btn-get-started scrollto">Simdi Baslayin</a>
+          <h2 data-aos="fade-up">40 yıllık profesyonel deneyimlerimizi sizinle paylaşıyoruz.</h2>
+          <div data-aos="fade-up">
+            <a href="#contact" class="btn-get-started scrollto">Şimdi Başlayın</a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
@@ -69,7 +69,9 @@
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients clients">
       <div class="container">
-
+          <div class="section-title" data-aos="fade-up">
+              <h2>Çalıştığımız Kurumlar</h2>
+          </div>
         <div class="row justify-content-center" >
 
           <div class="col-lg-2 col-md-4 col-12 pb-3 pb-sm-0">
@@ -81,11 +83,19 @@
           </div>
 
           <div class="col-lg-2 col-md-4 col-12 pb-3 pb-sm-0">
-            <img src="/img/doubletree.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="200">
+            <img src="/img/nowness.svg" class="img-fluid" style="transform: scale(1.2);" alt="" data-aos="zoom-in" data-aos-delay="200">
           </div>
 
           <div class="col-lg-2 col-md-4 col-12 pb-3 pb-sm-0">
-            <img src="/img/kaya.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300">
+            <img src="/img/kaya.png" class="img-fluid" alt="" style="transform: scale(1.3);" data-aos="zoom-in" data-aos-delay="300">
+          </div>
+
+            <div class="col-lg-2 col-md-4 col-12 pb-3 pb-sm-0">
+            <img src="/img/etap.png" class="img-fluid" alt="" style="transform: scale(0.9);"  width="0.5em" data-aos="zoom-in" data-aos-delay="400">
+          </div>
+
+            <div class="col-lg-2 col-md-4 col-12 pb-3 pb-sm-0">
+            <img src="/img/grandankara.svg" class="img-fluid" style="transform: scale(1.6);" alt="" data-aos="zoom-in" data-aos-delay="500">
           </div>
 
         </div>
@@ -109,7 +119,6 @@
                 aşamasından başlayarak A'dan Z'ye danışmanlık hizmeti vermekteyiz.
 
             </p>
-            <a href="#" class="btn-learn-more">Daha Fazla</a>
           </div>
         </div>
 
@@ -133,6 +142,7 @@
                     <li><i class="ri-check-double-line"></i> Danişmaniniz i̇şletmeni̇n geli̇ri̇ni̇ arttirmak i̇çi̇n alternati̇fler üreti̇r.</li>
                     <li><i class="ri-check-double-line"></i>  Danişman kali̇te ve hi̇jyen standartlarini oluşturarak müşteri̇lere güven kazandirir.</li>
                 </ul>
+                <a href="#contact" class="btn-learn-more">Daha Fazla</a>
             </div>
             </div>
         </div>
@@ -192,7 +202,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Hizmetlerimiz</h2>
+          <h2>Hİzmetlerİmİz</h2>
         </div>
 
           <div class="row" data-aos="fade-up" data-aos-delay="300">
@@ -205,7 +215,7 @@
                   </div>
                   <div class="collapse" id="collapseExample">
                       <div class="card card-body border-0">
-                          İşletmeye lokasyon seçimi yaparak doğru yatırım yaptırmak.
+                          Doğru lokasyon doğru proje iyi yatırımı sağlar.
                       </div>
                   </div>
               </div>
@@ -218,7 +228,7 @@
                   </div>
                   <div class="collapse" id="collapseExample2">
                       <div class="card card-body border-0">
-                          İşletmenin yıllık kar ve zarar bütçesi ve maliyet çalışmaları ile desteklemek.
+                          Agresif maliyet yönetimi karlılığınızı arttıracaktır.
                       </div>
                   </div>
               </div>
@@ -253,7 +263,7 @@
                   </div>
                   <div class="collapse" id="collapseExample5">
                       <div class="card card-body border-0">
-                          Standartları oluşturmak takım üyelerini eğitimlerle desteklemek.
+                          Butik otellere mesleki eğitimler sağlanır.
                       </div>
                   </div>
               </div>
@@ -289,19 +299,19 @@
                   </div>
                   <div class="collapse" id="collapseExample8">
                       <div class="card card-body border-0">
-                          Doğru pazarlama ve reklam ile yüksek gelir elde etmek.
+                          Doğru pazarlama ve reklam ile yüksek cirolar gerçekleştirilir.
                       </div>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 position-relative">
                   <div class="icon-box " type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample9" aria-expanded="false" aria-controls="collapseExample9">
                       <i class="ri-anchor-line" style="color: #b2904f;"></i>
-                      <h3>Menü ve konsept
+                      <h3>Konsept ve Menü
                          </h3> <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample9">
                       <div class="card card-body border-0">
-                          Doğru menü ve konsept işletmeye prestij sağlar.
+                          Doğru konsept ve menü işletmeye prestij ile gelir sağlar.
                       </div>
                   </div>
               </div>
@@ -323,7 +333,7 @@
                   </div>
                   <div class="collapse" id="collapseExample11">
                       <div class="card card-body border-0">
-                          En populer sosyal medya araclarini kullanarak isletmeyi yaygin bir markaya cevirmek.
+                          En popüler sosyal medya araçlarını kullanmak işletmeyi rekabette güçlendirir.
                       </div>
                   </div>
               </div>
@@ -334,7 +344,7 @@
                   </div>
                   <div class="collapse" id="collapseExample12">
                       <div class="card card-body border-0">
-                          Doğru personel seçimi ve doğru pozisyonlara yerleştirme.
+                          Uygun ve eğitimli personel işletmenin kalitesini arttırır.
                       </div>
                   </div>
               </div>
@@ -362,12 +372,10 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member m-auto" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="/img/rahmi.jpeg" class="img-fluid" style="height: 400px;width:300px;object-fit: cover;" alt="">
+                <img src="/img/rahmi.jpeg" class="img-fluid" style="height: 400px;width:300px;object-fit: cover;transform: scale(0.9)" alt="">
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.instagram.com/rahmi.yilmazz/" target="_blank"> <i class="bi bi-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/rahmi-yilmaz-69362b1a7/" target="_blank"> <i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -380,12 +388,10 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" >
             <div class="member m-auto" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <img src="/img/candan.jpeg?2" class="img-fluid" style="height: 400px;width:300px;object-fit: cover;" alt="">
+                <img src="/img/candan.jpeg?2"  class="img-fluid" style="height: 400px;width:300px;object-fit: cover;transform: scale(0.9)" alt="">
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.instagram.com/candan.kadioglu/" target="_blank"><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/candan-kad%C4%B1o%C4%9Flu-56420877/" target="_blank"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -409,7 +415,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Sıkça Sorulan Sorular</h2>
+          <h2>Sıkça Sorulanlar</h2>
         </div>
 
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
@@ -442,6 +448,18 @@
           <div class="col-lg-7">
             <p>
                 Proje işletmelerde faaliyete başladıktan sonra 1 yıl süre içinde rutin kontrollerimiz devam ediyor. </p>
+          </div>
+        </div><!-- End F.A.Q Item-->
+
+          <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-5">
+            <i class="ri-question-line"></i>
+              <h4><b>Kurulmuş i̇şletmelere hi̇zmet veri̇yor musunuz??</b></h4>
+          </div>
+          <div class="col-lg-7">
+            <p>
+                Evet! Faaliyetteki işletmelerde yaşanan veya beklenen ciroların düşük olmasından kaynaklı
+                tüm isteklerinize çözüm ortağıyız. </p>
           </div>
         </div><!-- End F.A.Q Item-->
 
@@ -493,25 +511,25 @@
 
             </div>
           </div>
-
-          <div class="col-lg-5 col-md-12" data-aos="fade-up" data-aos-delay="300">
+            <hr class="d-block d-sm-none">
+          <div class="col-lg-5 col-md-12 mt-3 mt-sm-0" data-aos="fade-up" data-aos-delay="300">
 
               <form method="POST" action="{{ route('send') }}" class="php-email-form">
                   @csrf
               <div class="form-group">
-                <input type="text" name="name" class="form-control" id="name" placeholder="Isminiz" required>
+                <input type="text" name="name" class="form-control" id="name" placeholder="İsminiz" required>
               </div>
               <div class="form-group">
                 <input type="email" class="form-control" name="email" id="email" placeholder="Mail Adresiniz" required>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Konu Basligi" required>
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Konu Başlıgı" required>
               </div>
               <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" placeholder="Mesajiniz" required></textarea>
+                <textarea class="form-control" name="message" rows="5" placeholder="Mesajınız" required></textarea>
               </div>
               <div class="text-center">
-                  <button type="submit">Gonder</button></div>
+                  <button type="submit">Gönder</button></div>
             </form>
 
           </div>
@@ -536,7 +554,8 @@
           <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
             <a href="#hero" class="scrollto">Anasayfa</a>
             <a href="#about" class="scrollto">Hakkımızda</a>
-            <a href="#services" class="scrollto">Servisimiz</a>
+            <a href="#services" class="scrollto">Hizmetlerimiz</a>
+            <a href="#team" class="scrollto">Takımımız</a>
           </nav>
         </div>
       </div>
