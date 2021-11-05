@@ -9,7 +9,7 @@
   <meta content="" name="keywords">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">  <link href="/css/style.css" rel="stylesheet">
-    <link href="/css/style.css?5" rel="stylesheet">
+    <link href="/css/style.css?11" rel="stylesheet">
     <link href="/js/aos/aos.css" rel="stylesheet">
     <link href="/js/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="/js/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
@@ -26,7 +26,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="/"><img src="/img/rc-full2048.png"> </a></h1>
+        <h1><a href="/"><img src="/img/rc2048-full.png"> </a></h1>
       </div>
 
       <nav id="navbar" class="navbar">
