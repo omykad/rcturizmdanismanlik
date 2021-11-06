@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>RC Turizm</title>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-  <meta content="" name="description">
-  <meta content="" name="keywords">
-
+    <link rel="icon" type="image/png" href="/img/rc400.png">
+    <link rel="apple-touch-icon" type="image/png" href="/img/rc400.png">
+    <title>RC Turizm</title>
+  <meta content="Gastronomi ve turizm alanındaki 40 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar&cafeler ve oteller olmak üzere faaliyete başlamış ancak istenilen seviyeye ulaşamamış olan veya yeni kurulacak işletmelere proje aşamasından başlayarak A'dan Z'ye danışmanlık hizmeti vermekteyiz." name="description">
+  <meta content="izmir, istanbul, danismanlik, turizm, cafe, otel" name="keywords">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">  <link href="/css/style.css" rel="stylesheet">
     <link href="/css/style.css?13" rel="stylesheet">
     <link href="/js/aos/aos.css" rel="stylesheet">
@@ -50,7 +51,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
-          <h1 data-aos="fade-up">İşyerinizi bizimle birlikte büyütün</h1>
+          <h1 data-aos="fade-up">İşyerinizi bizimle büyütün</h1>
           <h2 data-aos="fade-up">40 yıllık profesyonel deneyimlerimizi sizinle paylaşıyoruz.</h2>
           <div data-aos="fade-up">
             <a href="#contact" class="btn-get-started scrollto">Şimdi Başlayın</a>
