@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <link rel="icon" type="image/png" href="/img/rc400.png">
-    <link rel="apple-touch-icon" type="image/png" href="/img/rc400.png">
+    <link rel="icon" type="image/png" href="/img/rc400.png" style="width: 150px; height: auto">
+    <link rel="apple-touch-icon" type="image/png" href="/img/rc400.png" style="width: 150px; height: auto">
     <title>RC Turizm</title>
   <meta content="Gastronomi ve turizm alanındaki 40 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar&cafeler ve oteller olmak üzere faaliyete başlamış ancak istenilen seviyeye ulaşamamış olan veya yeni kurulacak işletmelere proje aşamasından başlayarak A'dan Z'ye danışmanlık hizmeti vermekteyiz." name="description">
   <meta content="izmir, istanbul, danismanlik, turizm, cafe, otel" name="keywords">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">  <link href="/css/style.css" rel="stylesheet">
-    <link href="/css/style.css?13" rel="stylesheet">
+    <link href="/css/style.css?14" rel="stylesheet">
     <link href="/js/aos/aos.css" rel="stylesheet">
     <link href="/js/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="/js/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
@@ -132,16 +132,16 @@
             <div class="row content">
             <div class="col-lg-6 pt-2 pt-lg-0 m-auto" data-aos="fade-up" data-aos-delay="150">
                 <ul>
-                    <li><i class="ri-check-double-line"></i>Mesleği̇nde uzman deneyi̇mli̇ danişmaniniz doğru yatirim yapmaniza neden olacaktir.</li>
-                    <li><i class="ri-check-double-line"></i> Danişman i̇şletmede sonuçlarin kötü olabi̇lmesi̇ni̇ önleyecekti̇r.</li>
-                    <li><i class="ri-check-double-line"></i>  Danişman kurum ve fi̇rmalarla doğru ve gerekli̇ kararlari aldirmayi sağlayan fi̇ki̇r veri̇ci̇ deneyi̇mli̇ ki̇şi̇lerdi̇r.
+                    <li><i class="ri-check-double-line"></i>Mesleği̇nde uzman deneyi̇mli̇ danışmanınız doğru yatırım yapmanıza neden olacaktır.</li>
+                    <li><i class="ri-check-double-line"></i> Danışman i̇şletmede sonuçların kötü olabi̇lmesi̇ni̇ önleyecekti̇r.</li>
+                    <li><i class="ri-check-double-line"></i>  Danışman kurum ve fi̇rmalarla doğru ve gerekli̇ kararlari aldırmayı sağlayan fi̇ki̇r veri̇ci̇ deneyi̇mli̇ ki̇şi̇lerdi̇r.
                         Bu si̇ze zaman ve kazanç sağlar.</li>
-                    <li><i class="ri-check-double-line"></i>Konsept seçi̇mi̇ ve menü yapmak ustalik ve deneyi̇m i̇ster doğru ki̇şi̇ler si̇ze önce presti̇j sonra yüksek ci̇rolu
-                        i̇şletme kazandirir.</li>
-                    <li><i class="ri-check-double-line"></i> Danişman eği̇ti̇lmi̇ş personelle müşteri̇leri̇ni̇zi̇n memnuni̇yeti̇ni̇ ve eki̇pmanlarinizin korunmasini sağlar.</li>
-                    <li><i class="ri-check-double-line"></i> Danişman tedari̇kçi̇lerden si̇zi̇n aldiğiniz fi̇yatlardan daha uygun fi̇yat alarak i̇şletmeye geli̇r sağlar.</li>
-                    <li><i class="ri-check-double-line"></i> Danişmaniniz i̇şletmeni̇n geli̇ri̇ni̇ arttirmak i̇çi̇n alternati̇fler üreti̇r.</li>
-                    <li><i class="ri-check-double-line"></i>  Danişman kali̇te ve hi̇jyen standartlarini oluşturarak müşteri̇lere güven kazandirir.</li>
+                    <li><i class="ri-check-double-line"></i>Konsept seçi̇mi̇ ve menü yapmak ustalık ve deneyi̇m i̇ster doğru ki̇şi̇ler si̇ze önce presti̇j sonra yüksek ci̇rolu
+                        i̇şletme kazandırır.</li>
+                    <li><i class="ri-check-double-line"></i> Danışman eği̇ti̇lmi̇ş personelle müşteri̇leri̇ni̇zi̇n memnuni̇yeti̇ni̇ ve eki̇pmanlarınızın korunmasını sağlar.</li>
+                    <li><i class="ri-check-double-line"></i> Danışman tedari̇kçi̇lerden si̇zi̇n aldığınız fi̇yatlardan daha uygun fi̇yat alarak i̇şletmeye geli̇r sağlar.</li>
+                    <li><i class="ri-check-double-line"></i> Danışmanınız i̇şletmeni̇n geli̇ri̇ni̇ arttırmak i̇çi̇n alternati̇fler üreti̇r.</li>
+                    <li><i class="ri-check-double-line"></i> Danışman kali̇te ve hi̇jyen standartlarını oluşturarak müşteri̇lere güven kazandırır.</li>
                 </ul>
                 <a href="#contact" class="btn-learn-more">Daha Fazla</a>
             </div>
@@ -354,23 +354,23 @@
               <div class="col-lg-3 col-md-4 mt-4 position-relative px-1">
                   <div class="icon-box " type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample13" aria-expanded="false" aria-controls="collapseExample13">
                       <i class="ri-knife-line" style="color: #ffa76e;"></i>
-                      <h3>Mutfak Danismanligi
+                      <h3>Mutfak Danışmanlığı
                          </h3> <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample13">
                       <div class="card card-body border-0">
-                          Gastronomi ile ilgili tum evrensel bilgi ve birikimlerimiz mutfaginizin gucunu arttirir.
+                          Gastronomi ile ilgili tüm evrensel bilgi ve birikimlerimiz mutfağınızın gücünü arttırır.
                       </div>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 position-relative px-1">
                   <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample14" aria-expanded="false" aria-controls="collapseExample14">
                       <i class="ri-service-fill" style="color: #ff5828;"></i>
-                      <h3>Servis Danismanligi</h3>  <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
+                      <h3>Servis Danışmanlığı</h3>  <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample14">
                       <div class="card card-body border-0">
-                          Enternasyonel yiyecek ececek genel standartlari ve kurallari personelinizin gelisimini ve musterilerinizin memnuniyetini saglar.
+                          Enternasyonel yiyecek ve içecek genel standartları ve kuralları personelinizin gelişimini ve müşterilerinizin memnuniyetini sağlar.
                       </div>
                   </div>
               </div>
@@ -379,11 +379,11 @@
                       <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" color="#e361ff" fill="currentColor" class="bi bi-cup-straw" viewBox="0 0 16 16">
                           <path d="M13.902.334a.5.5 0 0 1-.28.65l-2.254.902-.4 1.927c.376.095.715.215.972.367.228.135.56.396.56.82 0 .046-.004.09-.011.132l-.962 9.068a1.28 1.28 0 0 1-.524.93c-.488.34-1.494.87-3.01.87-1.516 0-2.522-.53-3.01-.87a1.28 1.28 0 0 1-.524-.93L3.51 5.132A.78.78 0 0 1 3.5 5c0-.424.332-.685.56-.82.262-.154.607-.276.99-.372C5.824 3.614 6.867 3.5 8 3.5c.712 0 1.389.045 1.985.127l.464-2.215a.5.5 0 0 1 .303-.356l2.5-1a.5.5 0 0 1 .65.278zM9.768 4.607A13.991 13.991 0 0 0 8 4.5c-1.076 0-2.033.11-2.707.278A3.284 3.284 0 0 0 4.645 5c.146.073.362.15.648.222C5.967 5.39 6.924 5.5 8 5.5c.571 0 1.109-.03 1.588-.085l.18-.808zm.292 1.756C9.445 6.45 8.742 6.5 8 6.5c-1.133 0-2.176-.114-2.95-.308a5.514 5.514 0 0 1-.435-.127l.838 8.03c.013.121.06.186.102.215.357.249 1.168.69 2.438.69 1.27 0 2.081-.441 2.438-.69.042-.029.09-.094.102-.215l.852-8.03a5.517 5.517 0 0 1-.435.127 8.88 8.88 0 0 1-.89.17zM4.467 4.884s.003.002.005.006l-.005-.006zm7.066 0-.005.006c.002-.004.005-.006.005-.006zM11.354 5a3.174 3.174 0 0 0-.604-.21l-.099.445.055-.013c.286-.072.502-.149.648-.222z"/>
                       </svg>
-                      <h3> &nbsp; Bar Danismanligi</h3>  <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
+                      <h3> &nbsp; Bar Danışmanlığı</h3>  <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample15">
                       <div class="card card-body border-0">
-                         Bar tasarim ve envanterini duzenleme, barmen-barmain egitimleri, alkol ve kokteyl menu olusturma.
+                         Bar tasarım ve envanterini düzenleme, barmen-barmain eğitimleri, alkol ve kokteyl menü oluşturma.
                       </div>
                   </div>
               </div>
