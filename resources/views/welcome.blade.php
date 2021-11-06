@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <link rel="icon" type="image/png" href="/img/rc400.png" style="width: 150px; height: auto">
-    <link rel="apple-touch-icon" type="image/png" href="/img/rc400.png" style="width: 150px; height: auto">
+    <link rel="icon" type="image/png" href="/img/rc400.png" style="width: 150px; height: 100px">
+    <link rel="apple-touch-icon" type="image/png" href="/img/rc400.png" style="width: 150px; height: 100px">
     <title>RC Turizm</title>
   <meta content="Gastronomi ve turizm alanındaki 40 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar&cafeler ve oteller olmak üzere faaliyete başlamış ancak istenilen seviyeye ulaşamamış olan veya yeni kurulacak işletmelere proje aşamasından başlayarak A'dan Z'ye danışmanlık hizmeti vermekteyiz." name="description">
   <meta content="izmir, istanbul, danismanlik, turizm, cafe, otel" name="keywords">
@@ -27,7 +27,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="/"><img src="/img/rc2048-full.png"> </a></h1>
+        <h1><a href="/"><img src="/img/rc2048-full.png?2"> </a></h1>
       </div>
 
       <nav id="navbar" class="navbar">
