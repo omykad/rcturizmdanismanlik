@@ -51,7 +51,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
-          <h1 data-aos="fade-up">İşyerinizi bizimle büyütün</h1>
+          <h1 data-aos="fade-up">İşinizi Bizimle Büyütün</h1>
           <h2 data-aos="fade-up">40 yıllık profesyonel deneyimlerimizi sizinle paylaşıyoruz.</h2>
           <div data-aos="fade-up">
             <a href="#contact" class="btn-get-started scrollto">Şimdi Başlayın</a>
@@ -127,13 +127,14 @@
 
         <div class="container mt-5">
             <div class="section-title" data-aos="fade-up">
-                <h2>NEDEN BİZİ SEÇMELİSİNİZ</h2>
+                <h2>Neden Bizi Seçmelisiniz</h2>
             </div>
             <div class="row content">
             <div class="col-lg-6 pt-2 pt-lg-0 m-auto" data-aos="fade-up" data-aos-delay="150">
                 <ul>
-                    <li><i class="ri-check-double-line"></i>Mesleği̇nde uzman deneyi̇mli̇ danışmanınız doğru yatırım yapmanıza neden olacaktır.</li>
-                    <li><i class="ri-check-double-line"></i> Danışman i̇şletmede sonuçların kötü olabi̇lmesi̇ni̇ önleyecekti̇r.</li>
+                    <li><i class="ri-check-double-line"></i>Mesleği̇nde uzman ve deneyi̇mli̇ danışmanlarımız ile sizin en doğru yatırımı yapmanızı sağlayacağız.</li>
+                    <li><i class="ri-check-double-line"></i> İşletmenizin karşılaşabileceği iyi ve kötü senaryoları öngörecebilecek ve sonrasında gerekli yönlendirmeleri yapacağız.</li>
+                    <li><i class="ri-check-double-line"></i> İşletmeniz için düzenli fizibilite çalışması yapacağız. Sonuçları birlikte inceleyecek, algınızı güçlendireceğiz.</li>
                     <li><i class="ri-check-double-line"></i>  Danışman kurum ve fi̇rmalarla doğru ve gerekli̇ kararlari aldırmayı sağlayan fi̇ki̇r veri̇ci̇ deneyi̇mli̇ ki̇şi̇lerdi̇r.
                         Bu si̇ze zaman ve kazanç sağlar.</li>
                     <li><i class="ri-check-double-line"></i>Konsept seçi̇mi̇ ve menü yapmak ustalık ve deneyi̇m i̇ster doğru ki̇şi̇ler si̇ze önce presti̇j sonra yüksek ci̇rolu
@@ -205,7 +206,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Hİzmetlerİmİz</h2>
+          <h2>Hizmetlerimiz</h2>
         </div>
 
           <div class="row" data-aos="fade-up" data-aos-delay="300">
@@ -231,7 +232,7 @@
                   </div>
                   <div class="collapse" id="collapseExample2">
                       <div class="card card-body border-0">
-                          Agresif maliyet yönetimi karlılığınızı arttıracaktır.
+                          Agresif maliyet yönetimi kârınızı arttıracaktır.
                       </div>
                   </div>
               </div>
@@ -254,7 +255,7 @@
                   </div>
                   <div class="collapse" id="collapseExample4">
                       <div class="card card-body border-0">
-                          Doğru tedarikci ile işletmeyi buluşturmak ve Kaliteyi ucuza almak Alırken kazanmak.
+                          Doğru tedarikci ile işletmeyi buluşturmak ve kaliteyi ucuza almak, alırken kazanmak.
                       </div>
                   </div>
               </div>
@@ -266,7 +267,7 @@
                   </div>
                   <div class="collapse" id="collapseExample5">
                       <div class="card card-body border-0">
-                          Otellere mesleki eğitimler verilir
+                          Otellere mesleki eğitimler verilir.
                       </div>
                   </div>
               </div>
@@ -297,7 +298,7 @@
               <div class="col-lg-3 col-md-4 mt-4 position-relative px-1">
                   <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample8" aria-expanded="false" aria-controls="collapseExample8">
                       <i class="ri-price-tag-2-line" style="color: #4233ff;"></i>
-                      <h3>Satış pazarlama ve reklam
+                      <h3>Satış ve pazarlama yönetimi
                          </h3>   <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample8">
@@ -387,22 +388,7 @@
                       </div>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4 mt-4 position-relative px-1">
-                  <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample16" aria-expanded="false" aria-controls="collapseExample16">
-                      <i class="ri-global-line" style="color: #e80368;"></i>
-                      <h3>Marka iletişimi ve yönetimi</h3>  <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
-                  </div>
-                  <div class="collapse" id="collapseExample16">
-                      <div class="card card-body border-0">
-
-                      </div>
-                  </div>
-              </div>
-
-
           </div>
-
-
       </div>
     </section><!-- End Services Section -->
 
@@ -467,7 +453,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Sıkça Sorulanlar</h2>
+          <h2>Sıkça Sorulan Sorular</h2>
         </div>
 
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
@@ -515,7 +501,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Bİze Ulaşın</h2>
+          <h2>Bize Ulaşın</h2>
         </div>
 
         <div class="row">
