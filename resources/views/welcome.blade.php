@@ -10,7 +10,7 @@
   <meta content="Gastronomi ve turizm alanındaki 40 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar&cafeler ve oteller olmak üzere faaliyete başlamış ancak istenilen seviyeye ulaşamamış olan veya yeni kurulacak işletmelere proje aşamasından başlayarak A'dan Z'ye danışmanlık hizmeti vermekteyiz." name="description">
   <meta content="izmir, istanbul, danismanlik, turizm, cafe, otel" name="keywords">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">  <link href="/css/style.css" rel="stylesheet">
-    <link href="/css/style.css?15" rel="stylesheet">
+    <link href="/css/style.css?16" rel="stylesheet">
     <link href="/js/aos/aos.css" rel="stylesheet">
     <link href="/js/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="/js/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
@@ -84,11 +84,11 @@
           </div>
 
           <div class="col-lg-2 col-md-4 col-12 p-3 pb-sm-0">
-            <img src="/img/nowness.svg" class="img-fluid" style="transform: scale(1.2);" alt="Nowness Hotel" data-aos="zoom-in" data-aos-delay="200">
+            <img src="/img/nowness.png" class="img-fluid" style="transform: scale(1.2);" alt="Nowness Hotel" data-aos="zoom-in" data-aos-delay="200">
           </div>
 
           <div class="col-lg-2 col-md-4 col-12 p-3 pb-sm-0">
-            <img src="/img/kaya.png" class="img-fluid" alt="Kaya Otel" style="transform: scale(1.3);" data-aos="zoom-in" data-aos-delay="300">
+            <img src="/img/kaya2.png" class="img-fluid" alt="Kaya Otel" style="transform: scale(1.3);" data-aos="zoom-in" data-aos-delay="300">
           </div>
 
             <div class="col-lg-2 col-md-4 col-12 p-3 pb-sm-0">
@@ -242,7 +242,7 @@
                   </div>
                   <div class="collapse" id="collapseExample3">
                       <div class="card card-body border-0">
-                          Faaliyetteki işletmelere swot analizi yaparak doğru yatırımın yapılmasını sağlamak.
+                          Swot analizi faaliyetteki işletmeleredoğru yatırımın yapılmasını sağlar.
                       </div>
                   </div>
               </div>
@@ -266,7 +266,7 @@
                   </div>
                   <div class="collapse" id="collapseExample5">
                       <div class="card card-body border-0">
-                          Butik otellere mesleki eğitimler sağlanır.
+                          Otellere mesleki eğitimler verilir
                       </div>
                   </div>
               </div>
@@ -278,7 +278,7 @@
                   </div>
                   <div class="collapse" id="collapseExample6">
                       <div class="card card-body border-0">
-                          İş yerinde iş başı eğitimlerle kaliteyi arttırmak.
+                          Hedefimiz işbaşı eğitimlerle kaliteyi yükseltmek.
                       </div>
                   </div>
               </div>
@@ -290,7 +290,7 @@
                   </div>
                   <div class="collapse" id="collapseExample7">
                       <div class="card card-body border-0">
-                          En doğru ve kaliteli personeli işletmeye kazandırmak.
+                          En doğru ve kaliteli personel standartların devamlılığını sağlar.
                       </div>
                   </div>
               </div>
@@ -359,7 +359,7 @@
                   </div>
                   <div class="collapse" id="collapseExample13">
                       <div class="card card-body border-0">
-                          Gastronomi ile ilgili tüm evrensel bilgi ve birikimlerimiz mutfağınızın gücünü arttırır.
+                          Gastronomi ile ilgili tüm evrensel bilgi ve ustalığımız mutfağınızın gücünü arttırır.
                       </div>
                   </div>
               </div>
@@ -370,7 +370,7 @@
                   </div>
                   <div class="collapse" id="collapseExample14">
                       <div class="card card-body border-0">
-                          Enternasyonel yiyecek ve içecek genel standartları ve kuralları personelinizin gelişimini ve müşterilerinizin memnuniyetini sağlar.
+                          Enternasyonel yiyecek ve içecek standartları servis ekibinizin eğitimi ile birlikte müşteri memnuniyeti sağlar.
                       </div>
                   </div>
               </div>
@@ -383,7 +383,7 @@
                   </div>
                   <div class="collapse" id="collapseExample15">
                       <div class="card card-body border-0">
-                         Bar tasarım ve envanterini düzenleme, barmen-barmain eğitimleri, alkol ve kokteyl menü oluşturma.
+                         Bar tasarımı ile trend kokteyller işletmenizin popüleritesini arttıracaktır.
                       </div>
                   </div>
               </div>
