@@ -115,16 +115,13 @@
 
           <div class="col-lg-6 pt-2 pt-lg-0 m-auto" data-aos="fade-up" data-aos-delay="300">
             <p>
-                Gastronomi ve turizm alanındaki 40 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar&cafeler ve
-                oteller olmak üzere faaliyete başlamış ancak istenilen seviyeye ulaşamamış olan veya yeni kurulacak işletmelere proje
+                Gastronomi ve turizm alanındaki 40 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar, cafeler ve
+                oteller başta olmak üzere faaliyete başlamış ancak istenilen seviyeye ulaşamamış olan veya yeni kurulacak işletmelere proje
                 aşamasından başlayarak A'dan Z'ye danışmanlık hizmeti vermekteyiz.
-
             </p>
           </div>
         </div>
-
       </div>
-
         <div class="container mt-5">
             <div class="section-title" data-aos="fade-up">
                 <h2>Neden Bizi Seçmelisiniz</h2>
@@ -132,19 +129,19 @@
             <div class="row content">
             <div class="col-lg-6 pt-2 pt-lg-0 m-auto" data-aos="fade-up" data-aos-delay="150">
                 <ul>
-                    <li><i class="ri-check-double-line"></i>Mesleği̇nde uzman ve deneyi̇mli̇ danışmanlarımız ile sizin en doğru yatırımı yapmanızı sağlayacağız.</li>
+                    <li><i class="ri-check-double-line"></i> Mesleği̇nde uzman ve deneyi̇mli̇ danışmanlarımız ile sizin en doğru yatırımı yapmanızı sağlayacağız.</li>
                     <li><i class="ri-check-double-line"></i> İşletmenizin karşılaşabileceği iyi ve kötü senaryoları öngörecebilecek ve sonrasında gerekli yönlendirmeleri yapacağız.</li>
                     <li><i class="ri-check-double-line"></i> İşletmeniz için düzenli fizibilite çalışması yapacağız. Sonuçları birlikte inceleyecek, algınızı güçlendireceğiz.</li>
-                    <li><i class="ri-check-double-line"></i>  Danışman kurum ve fi̇rmalarla doğru ve gerekli̇ kararlari aldırmayı sağlayan fi̇ki̇r veri̇ci̇ deneyi̇mli̇ ki̇şi̇lerdi̇r.
-                        Bu si̇ze zaman ve kazanç sağlar.</li>
-                    <li><i class="ri-check-double-line"></i>Konsept seçi̇mi̇ ve menü yapmak ustalık ve deneyi̇m i̇ster doğru ki̇şi̇ler si̇ze önce presti̇j sonra yüksek ci̇rolu
-                        i̇şletme kazandırır.</li>
-                    <li><i class="ri-check-double-line"></i> Danışman eği̇ti̇lmi̇ş personelle müşteri̇leri̇ni̇zi̇n memnuni̇yeti̇ni̇ ve eki̇pmanlarınızın korunmasını sağlar.</li>
-                    <li><i class="ri-check-double-line"></i> Danışman tedari̇kçi̇lerden si̇zi̇n aldığınız fi̇yatlardan daha uygun fi̇yat alarak i̇şletmeye geli̇r sağlar.</li>
-                    <li><i class="ri-check-double-line"></i> Danışmanınız i̇şletmeni̇n geli̇ri̇ni̇ arttırmak i̇çi̇n alternati̇fler üreti̇r.</li>
-                    <li><i class="ri-check-double-line"></i> Danışman kali̇te ve hi̇jyen standartlarını oluşturarak müşteri̇lere güven kazandırır.</li>
+                    <li><i class="ri-check-double-line"></i> Size vereceğimiz fikir ve yönlendirmeler doğrultusunda işletmeniz için en sağlıklı, doğru ve gerekli kararları aldırmayı temin ediyoruz. Bu sayede size hem zaman, hem de kazanç sağlayacağız.</li>
+                    <li><i class="ri-check-double-line"></i> Konsept seçimi ve menü hazırlamak, ustalık ve deneyim ister. Bizim desteğimiz ile önce prestijinizi arttıracak, hemen ardından yüksek cirolara erişmenizi sağlayacağız. </li>
+                    <li><i class="ri-check-double-line"></i> Bünyenizde bulunan personellere ve gerekli olduğu durumda personel takviyesi yapacak, onlara işletmenizi en iyi şekilde sergilemeleri ve potansiyellerini ortaya çıkartabilmelerine yönelik eğitimler vereceğiz. 
+                    Unutmayın! Kemik kadronuzu ne kadar sağlam yaparsanız, o kadar sağlam temellere sahip olacaksınız ve gözünüz asla geride kalmayacak.</li>
+                    <li><i class="ri-check-double-line"></i> Müşteri profilinizi analiz ederek, ona uygun şekilde çalışmalarda bulunacağız ve müşteri memnuni̇yeti̇ni̇ en üst seviyeye çıkaracağız.</li>
+                    <li><i class="ri-check-double-line"></i> Araç-gereç, ekipman ve kılık-kıyafet eğitimlerimizle, çalışanlarınızın verimi gözle görülür şekilde artacak.</li>
+                    <li><i class="ri-check-double-line"></i> Sizi doğru tedarikçiler ile buluşturacağız. Harcarken kazanmak, tasarrufun en yalın halidir.</li>
+                    <li><i class="ri-check-double-line"></i> İşletmenizde gördüğümüz potansiyeli hayata geçirecek fikirler ile geleceğiz.</li>
+                    <li><i class="ri-check-double-line"></i> Kalite ve hijyen standartları hakkında eğitimler verecek, yönergeler oluşturacağız. Bunun sonucunda ise işletmenize gelen müşteri, memnuniyetle ayrılacak.</li>
                 </ul>
-                <a href="#contact" class="btn-learn-more">Daha Fazla</a>
             </div>
             </div>
         </div>
