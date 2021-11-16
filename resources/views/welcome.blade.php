@@ -11,6 +11,7 @@
   <meta content="izmir, istanbul, danismanlik, turizm, cafe, otel" name="keywords">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">  <link href="/css/style.css" rel="stylesheet">
     <link href="/css/style.css?17" rel="stylesheet">
+    <link href="/css/cart.scss?1" rel="stylesheet">
     <link href="/js/aos/aos.css" rel="stylesheet">
     <link href="/js/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="/js/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
@@ -180,14 +181,14 @@
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                   <div class="count-box">
                     <i class="bi bi-clock"></i>
-                      <p>Sektörde <strong> 40 yıllık tecrübe</strong> edindik.</p>
+                      <p>Sektörde <strong>40 yıllık tecrübe</strong> edindik.</p>
                   </div>
                 </div>
 
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                   <div class="count-box">
                     <i class="bi bi-award"></i>
-                    <p><strong>Sayısız ödüller </strong> kazandık.</p>
+                    <p><strong>Sayısız ödüller</strong> kazandık.</p>
                   </div>
                 </div>
               </div>
@@ -216,7 +217,7 @@
                   </div>
                   <div class="collapse" id="collapseExample">
                       <div class="card card-body border-0">
-                          Doğru lokasyon doğru proje iyi yatırımı sağlar.
+                          Doğru lokasyon ve doğru proje, yapılan yatırımın katma değerini arttırır.
                       </div>
                   </div>
               </div>
@@ -236,11 +237,11 @@
               <div class="col-lg-3 col-md-4 mt-4 position-relative px-1">
                   <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3">
                       <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-                      <h3>İşyerinin Swot analizi</h3> <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
+                      <h3>Swot analizi</h3> <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample3">
                       <div class="card card-body border-0">
-                          Swot analizi faaliyetteki işletmeleredoğru yatırımın yapılmasını sağlar.
+                          Swot analizi, işletmenizin güçlü ve zayıf yönlerini, fırsat ve tehditlerini, avantaj ve dezavantajlarını masaya yatırarak doğru karar almanızı sağlayacaktır.  
                       </div>
                   </div>
               </div>
@@ -259,25 +260,24 @@
               <div class="col-lg-3 col-md-4 mt-4 position-relative px-1">
                   <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample5" aria-expanded="false" aria-controls="collapseExample5">
                       <i class="ri-database-2-line" style="color: #47aeff;"></i>
-                      <h3>Butik otel ve üzeri işletmelere eğitim
+                      <h3>Personel mesleki eğitimi
                          </h3>  <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample5">
                       <div class="card card-body border-0">
-                          Otellere mesleki eğitimler verilir.
+                          İşletmenin ihtiyacı olabilecek eğitimleri vermek.
                       </div>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 position-relative px-1">
                   <div class="icon-box" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample6" aria-expanded="false" aria-controls="collapseExample6">
                       <i class="ri-gradienter-line" style="color: #ffa76e;"></i>
-                      <h3>Hizmet kalite ve standardlarını oluşturmak
+                      <h3>Kalite ve standartları oluşturmak
                           </h3>  <i class="dropdown-toggle fs-6 position-absolute" style="right:5px;color: #333;"></i>
                   </div>
                   <div class="collapse" id="collapseExample6">
                       <div class="card card-body border-0">
-                          Hedefimiz işbaşı eğitimlerle kaliteyi yükseltmek.
-                      </div>
+                          Her işletmenin özel durumlarına göre standartları belirlemek ve buna bağlı kalite arttırma çalışmaları yapmak.                      </div>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 position-relative px-1">
@@ -288,7 +288,7 @@
                   </div>
                   <div class="collapse" id="collapseExample7">
                       <div class="card card-body border-0">
-                          En doğru ve kaliteli personel standartların devamlılığını sağlar.
+                          Uygun görülen departmanlara personel desteği ve bununla birlikte eğitimi sağlamak.
                       </div>
                   </div>
               </div>
@@ -368,7 +368,7 @@
                   </div>
                   <div class="collapse" id="collapseExample14">
                       <div class="card card-body border-0">
-                          Enternasyonel yiyecek ve içecek standartları servis ekibinizin eğitimi ile birlikte müşteri memnuniyeti sağlar.
+                          Enternasyonel yiyecek ve içecek standartları servis ekibinizin eğitimi ile birlikte müşteri memnuniyetini sağlar.
                       </div>
                   </div>
               </div>
@@ -460,7 +460,7 @@
           </div>
           <div class="col-lg-7">
             <p>
-                Proje yatırımlar piyasa ve rekabet  koşullarıda göz önüne alınarak 3 yıl ve üzeri sürede geri dönmesi beklenmektedir.</p>
+                Proje, yatırım, piyasa ve rekabet parametreleri göz önüne alınarak genellikle 3 yıl ve üzeri sürede geri dönmesi beklenmektedir. </p>
           </div>
         </div><!-- End F.A.Q Item-->
 
@@ -471,11 +471,9 @@
               </div>
               <div class="col-lg-7">
                   <p>
-                      Evet! Faaliyetteki işletmelerde yaşanan veya beklenen ciroların düşük olmasından kaynaklı
-                      tüm isteklerinize çözüm ortağıyız. </p>
+                      Evet! Faaliyetteki işletmelerde yaşanan veya beklenen ciroların düşük olmasından kaynaklı tüm isteklerinize çözüm ortağıyız. </p>
               </div>
           </div><!-- End F.A.Q Item-->
-
 
           <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
           <div class="col-lg-5">
@@ -487,8 +485,6 @@
                 Proje işletmelerde faaliyete başladıktan sonra 1 yıl süre içinde rutin kontrollerimiz devam ediyor. </p>
           </div>
         </div><!-- End F.A.Q Item-->
-
-
 
       </div>
     </section><!-- End F.A.Q Section -->
@@ -505,9 +501,9 @@
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="contact-about">
-              <p>Gastronomi ve turizm alanındaki 40 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar, cafeler ve oteller
-                  olmak üzere faaliyete başlamış ancak istenilen seviyeye ulaşamamış olan veya yeni kurulacak  işletmelere proje aşamasından başlayarak
-                  A'dan  Z'ye danışmanlık hizmeti veriyoruz.
+              <p>Gastronomi ve turizm alanındaki 40 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar, cafeler ve oteller 
+                başta olmak üzere faaliyete başlamış ancak istenilen seviyeye ulaşamamış olan veya yeni kurulacak işletmelere proje
+                aşamasından başlayarak A'dan Z'ye danışmanlık hizmeti vermekteyiz.
               </p>
               <div class="social-links">
                 <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
