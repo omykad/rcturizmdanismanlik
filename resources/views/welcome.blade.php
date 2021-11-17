@@ -54,7 +54,7 @@
                   </div>
                </div>
                <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
-                  <img src="/img/first.svg" class="img-fluid animated" alt="rc turizm danismanlik">
+                  <img src="/img/hotel.svg" class="img-fluid animated" alt="rc turizm danismanlik">
                </div>
             </div>
          </div>
@@ -69,7 +69,7 @@
                </div>
                <div class="row justify-content-center" >
                   <div class="col-lg-2 col-md-4 col-12 p-3 pb-sm-0">
-                     <img src="/img/sheraton.png" class="img-fluid" alt="Sheraton Hotel" data-aos="zoom-in">
+                     <img src="/img/sheraton-nb.png" class="img-fluid" alt="Sheraton Hotel" data-aos="zoom-in">
                   </div>
                   <div class="col-lg-2 col-md-4 col-12 p-3 pb-sm-0">
                      <img src="/img/hilton.png" class="img-fluid" alt="Hilton Izmir" data-aos="zoom-in" data-aos-delay="100">
@@ -504,11 +504,11 @@
                         </div>
                         <div>
                            <i class="ri-phone-line"></i>
-                           <p>Rahmi +905324618551</p>
+                           <p>Rahmi Yılmaz +905324618551</p>
                         </div>
                         <div>
                            <i class="ri-phone-line"></i>
-                           <p>Candan +905327980534</p>
+                           <p>Candan Kadıoğlu +905327980534</p>
                         </div>
                      </div>
                   </div>
