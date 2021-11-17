@@ -10,7 +10,7 @@
   <meta content="Gastronomi ve turizm alanındaki 40 yıllık profesyonel deneyimlerimizi sektör içindeki restaurantlar&cafeler ve oteller olmak üzere faaliyete başlamış ancak istenilen seviyeye ulaşamamış olan veya yeni kurulacak işletmelere proje aşamasından başlayarak A'dan Z'ye danışmanlık hizmeti vermekteyiz." name="description">
   <meta content="izmir, istanbul, danismanlik, turizm, cafe, otel" name="keywords">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">  <link href="/css/style.css" rel="stylesheet">
-    <link href="/css/style.css?17" rel="stylesheet">
+    <link href="/css/style.css?18" rel="stylesheet">
     <link href="/css/cart.scss?1" rel="stylesheet">
     <link href="/js/aos/aos.css" rel="stylesheet">
     <link href="/js/bootstrap/css/bootstrap.css" rel="stylesheet">
