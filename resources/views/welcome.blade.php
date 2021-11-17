@@ -504,7 +504,11 @@
                         </div>
                         <div>
                            <i class="ri-phone-line"></i>
-                           <p>+905327980534</p>
+                           <p>Rahmi +905324618551</p>
+                        </div>
+                        <div>
+                           <i class="ri-phone-line"></i>
+                           <p>Candan +905327980534</p>
                         </div>
                      </div>
                   </div>
