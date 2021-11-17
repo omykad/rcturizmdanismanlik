@@ -12,7 +12,6 @@
       <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
       <link href="/css/style.css" rel="stylesheet">
       <link href="/css/style.css?18" rel="stylesheet">
-      <link href="/css/cart.scss?3" rel="stylesheet">
       <link href="/js/aos/aos.css" rel="stylesheet">
       <link href="/js/bootstrap/css/bootstrap.css" rel="stylesheet">
       <link href="/js/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
@@ -388,28 +387,22 @@
                      <div class="member" data-aos="fade-up" data-aos-delay="200">
                      </div>
                   </div>
-                  <div class="flip-container centered">
-                     <div class="flipper">
-                        <div class="front"></div>
-                        <div class="back">
-                           <h1>Candan Kadıoğlu</h1>
-                           <p>Servis ve organizasyon danışmanı</p>
-                           <div class="font-a-icons">
-                              <div class="icon-group">
-                                 <span class="bold">Tel: </span><span class="contact">+905327980534</span>
-                                 <div class="icon-group">
-                                    <span class="bold">Email: </span><a class="contact" href="mailto:candan@rcturizmdanismanlik.com" target="_top">candan@rcturizmdanismanlik.com</a>
-                                 </div>
-                                 <div class="icon-group">
-                                 </div>
-                              </div>
-                           </div>
-                           <a class="cart-icon-box" href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>
-                           <a class="cart-icon-box" href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
-                           <a class="cart-icon-box" href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin"></i></a>
+
+                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member m-auto" data-aos="fade-up" data-aos-delay="100">
+                      <div class="member-img">
+                        <img src="/img/rahmi.jpeg" class="img-fluid" style="height: 400px;width:300px;object-fit: cover;transform: scale(0.9)" alt="">
+                        <div class="social">
+                          <a href="https://www.instagram.com/rahmi.yilmazz/" target="_blank"> <i class="bi bi-instagram"></i></a>
+                          <a href="https://www.linkedin.com/in/rahmi-yilmaz-69362b1a7/" target="_blank"> <i class="bi bi-linkedin"></i></a>
                         </div>
-                     </div>
+                      </div>
+                      <div class="member-info">
+                        <h4>Rahmi Yılmaz</h4>
+                      </div>
+                    </div>
                   </div>
+
                   <div class="col-lg-3 col-md-6 d-flex align-items-stretch" >
                      <div class="member m-auto" data-aos="fade-up" data-aos-delay="300">
                         <div class="member-img">
@@ -424,6 +417,7 @@
                         </div>
                      </div>
                   </div>
+
                   <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                      <div class="member" data-aos="fade-up" data-aos-delay="200">
                      </div>
