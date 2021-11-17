@@ -113,7 +113,7 @@
                <div class="row content">
                   <div class="col-lg-6 pt-2 pt-lg-0 m-auto" data-aos="fade-up" data-aos-delay="150">
                      <ul>
-                        <li><i class="ri-check-double-line"></i> Mesleği̇nde uzman ve deneyi̇mli̇ danışmanlarımız ile sizin en doğru yatırımı yapmanızı sağlayacağız.</li>
+                        <li><i class="ri-check-double-line"></i> Mesleği̇nde uzman ve deneyi̇mli̇ danışmanlarımız ile sizin en doğru yatırımı yapmanızı sağlayacağız. </li>
                         <li><i class="ri-check-double-line"></i> İşletmenizin karşılaşabileceği iyi ve kötü senaryoları öngörecebilecek ve sonrasında gerekli yönlendirmeleri yapacağız.</li>
                         <li><i class="ri-check-double-line"></i> İşletmeniz için düzenli fizibilite çalışması yapacağız. Sonuçları birlikte inceleyecek, algınızı güçlendireceğiz.</li>
                         <li><i class="ri-check-double-line"></i> Size vereceğimiz fikir ve yönlendirmeler doğrultusunda işletmeniz için en sağlıklı, doğru ve gerekli kararları aldırmayı temin ediyoruz. Bu sayede size hem zaman, hem de kazanç sağlayacağız.</li>
