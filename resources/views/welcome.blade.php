@@ -69,7 +69,7 @@
                </div>
                <div class="row justify-content-center" >
                   <div class="col-lg-2 col-md-4 col-12 p-3 pb-sm-0">
-                     <img src="/img/sheraton-white.png" class="img-fluid" alt="Sheraton Hotel" data-aos="zoom-in">
+                     <img src="/img/sheraton-gray.png" class="img-fluid" alt="Sheraton Hotel" data-aos="zoom-in">
                   </div>
                   <div class="col-lg-2 col-md-4 col-12 p-3 pb-sm-0">
                      <img src="/img/hilton.png" class="img-fluid" alt="Hilton Izmir" data-aos="zoom-in" data-aos-delay="100">
