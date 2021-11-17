@@ -65,7 +65,7 @@
          <section id="clients" class="clients clients">
             <div class="container">
                <div class="section-title" data-aos="fade-up">
-                  <h2>Çalıştığımız kurumlar</h2>
+                  <h2>ÇALIŞTIĞIMIZ KURUMLAR</h2>
                </div>
                <div class="row justify-content-center" >
                   <div class="col-lg-2 col-md-4 col-12 p-3 pb-sm-0">
@@ -108,7 +108,7 @@
             </div>
             <div class="container mt-5">
                <div class="section-title" data-aos="fade-up">
-                  <h2>Neden Bizi Seçmelisiniz</h2>
+                  <h2>NEDEN BİZİ SEÇMELİSİNİZ</h2>
                </div>
                <div class="row content">
                   <div class="col-lg-6 pt-2 pt-lg-0 m-auto" data-aos="fade-up" data-aos-delay="150">
@@ -178,7 +178,7 @@
          <section id="services" class="features">
             <div class="container">
                <div class="section-title" data-aos="fade-up">
-                  <h2>Hizmetlerimiz</h2>
+                  <h2>HİZMETLERİMİZ</h2>
                </div>
                <div class="row" data-aos="fade-up" data-aos-delay="300">
                   <div class="col-lg-3 col-md-4 mt-4 position-relative px-1">
@@ -380,7 +380,7 @@
          <section id="team" class="team section-bg">
             <div class="container">
                <div class="section-title" data-aos="fade-up">
-                  <h2>Takımımız</h2>
+                  <h2>TAKIMIMIZ</h2>
                </div>
                <div class="row">
                   <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -475,7 +475,7 @@
          <section id="contact" class="contact">
             <div class="container">
                <div class="section-title" data-aos="fade-up">
-                  <h2>Bize Ulaşın</h2>
+                  <h2>BİZE ULAŞIN</h2>
                </div>
                <div class="row">
                   <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
