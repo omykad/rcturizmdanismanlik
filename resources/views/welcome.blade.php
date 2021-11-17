@@ -121,7 +121,7 @@
                         <li><i class="ri-check-double-line"></i> Bünyenizde bulunan personellere ve gerekli olduğu durumda personel takviyesi yapacak, onlara işletmenizi en iyi şekilde sergilemeleri ve potansiyellerini ortaya çıkartabilmelerine yönelik eğitimler vereceğiz. 
                            Unutmayın! Kemik kadronuzu ne kadar sağlam yaparsanız, o kadar sağlam temellere sahip olacaksınız ve gözünüz asla geride kalmayacak.
                         </li>
-                        <li><i class="ri-check-double-line"></i> Müşteri profilinizi analiz ederek, ona uygun şekilde çalışmalarda bulunacağız ve müşteri memnuni̇yeti̇ni̇ en üst seviyeye çıkaracağız.</li>
+                        <li><i class="ri-check-double-line"></i> Müşteri profilinizi analiz ederek, ona uygun şekilde çalışmalarda bulunacağız ve müşteri memnuniyetini en üst seviyeye çıkaracağız. </li>
                         <li><i class="ri-check-double-line"></i> Araç-gereç, ekipman ve kılık-kıyafet eğitimlerimizle, çalışanlarınızın verimi gözle görülür şekilde artacak.</li>
                         <li><i class="ri-check-double-line"></i> Sizi doğru tedarikçiler ile buluşturacağız. Harcarken kazanmak, tasarrufun en yalın halidir.</li>
                         <li><i class="ri-check-double-line"></i> İşletmenizde gördüğümüz potansiyeli hayata geçirecek fikirler ile geleceğiz.</li>
