@@ -47,7 +47,7 @@
          <div class="container">
             <div class="row">
                <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
-                  <h1 data-aos="fade-up">İşinizi Bizimle Büyütün</h1>
+                  <h1 data-aos="fade-up">İŞİNİZİ BİZİMLE BÜYÜTÜN</h1>
                   <h2 data-aos="fade-up">40 yıllık profesyonel deneyimlerimizi sizinle paylaşıyoruz.</h2>
                   <div data-aos="fade-up">
                      <a href="#contact" class="btn-get-started scrollto">Şimdi Başlayın</a>
@@ -65,7 +65,7 @@
          <section id="clients" class="clients clients">
             <div class="container">
                <div class="section-title" data-aos="fade-up">
-                  <h2>Çalıştığımız Kurumlar</h2>
+                  <h2>Çalıştığımız kurumlar</h2>
                </div>
                <div class="row justify-content-center" >
                   <div class="col-lg-2 col-md-4 col-12 p-3 pb-sm-0">
