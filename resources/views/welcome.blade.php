@@ -113,7 +113,6 @@
                <div class="row content">
                   <div class="col-lg-6 pt-2 pt-lg-0 m-auto" data-aos="fade-up" data-aos-delay="150">
                      <ul>
-                        <li><i class="ri-check-double-line"></i> Mesleği̇nde uzman ve deneyi̇mli̇ danışmanlarımız ile sizin en doğru yatırımı yapmanızı sağlayacağız. </li>
                         <li><i class="ri-check-double-line"></i> Mesleğinde uzman ve deneyimli danışmanlarımız ile sizin en doğru yatırımı yapmanızı sağlayacağız. </li>
                         <li><i class="ri-check-double-line"></i> İşletmenizin karşılaşabileceği iyi ve kötü senaryoları öngörecebilecek ve sonrasında gerekli yönlendirmeleri yapacağız.</li>
                         <li><i class="ri-check-double-line"></i> İşletmeniz için düzenli fizibilite çalışması yapacağız. Sonuçları birlikte inceleyecek, algınızı güçlendireceğiz.</li>
@@ -448,7 +447,7 @@
                <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                   <div class="col-lg-5">
                      <i class="ri-question-line"></i>
-                     <h4><b>Kurulmuş i̇şletmelere hi̇zmet veri̇yor musunuz??</b></h4>
+                     <h4><b>Kurulmuş işletmelere hizmet veriyor musunuz?</b></h4>
                   </div>
                   <div class="col-lg-7">
                      <p>
