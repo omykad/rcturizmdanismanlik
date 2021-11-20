@@ -13,6 +13,7 @@ class Message extends Model
     public $fillable = [
         'name',
         'email',
+        'tel',
         'subject',
         'message'
     ];
