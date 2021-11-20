@@ -503,7 +503,7 @@
                         <div>
                            <i class="ri-mail-send-line"></i>
                            <a href="mailto:info@rcturizmdanismanlik.com">info@rcturizmdanismanlik.com</a>
-                        </div>
+                        </div><br>
                         <div>
                            <i class="ri-phone-line"></i>
                            <p>Rahmi Yılmaz <a href="tel:+905324618551">0(532) 461 85 51</a></p>
