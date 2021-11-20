@@ -504,7 +504,8 @@
                         </div>
                         <div>
                            <i class="ri-phone-line"></i>
-                           <p>Rahmi Yılmaz +905324618551</p>
+                           <p>Rahmi Yılmaz <a href="tel:+905324618551">+90(532)4618551</a></p>
+
                         </div>
                         <div>
                            <i class="ri-phone-line"></i>
