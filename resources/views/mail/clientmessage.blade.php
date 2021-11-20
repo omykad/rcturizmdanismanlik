@@ -31,6 +31,7 @@
     <div style="display:inline-block; vertical-align: top;text-align: left;margin:20px;width: 200px"><b style="font-size: 17px">Mesaj Bilgileriniz</b>
         <div>{{$order->name}}</div>
         <div>{{$order->email}}</div>
+        <div>{{$order->tel}}</div>
         <div>{{$order->subject}}</div>
         <div>{{$order->message}}</div>
     </div>

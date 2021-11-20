@@ -29,10 +29,10 @@
 
 <div style="margin-right: auto; margin-left: auto; ">
     <div style="display:inline-block; vertical-align: top;text-align: left;margin:20px;width: 200px"><b style="font-size: 17px">Mesaj Bilgileriniz</b>
-        <div>{{request('name')}}</div>
-        <br>
-        <div>{{request('email')}}</div>   <br>
-        <div>{{request('subject')}}</div>   <br>
+        <div>{{request('name')}}</div><br>
+        <div>{{request('email')}}</div><br>
+        <div>{{request('tel')}}</div><br>
+        <div>{{request('subject')}}</div><br>
         <div>{{request('message')}}</div>
     </div>
 </div>

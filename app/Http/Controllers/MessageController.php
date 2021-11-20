@@ -15,8 +15,9 @@ class MessageController extends Controller
         $validator = Validator::make($request->all(), [
             'name' => ['string', 'max:50',  'required'],
             'email' => ['string', 'max:50' ,'required'],
+            'tel' => ['string', 'max:50' ,'required'],
             'subject' => ['string', 'max:100' ,'required'],
-            'message' => ['string', 'max:300' ,'required'],
+            'message' => ['string', 'max:750' ,'required'],
         ]);
         if ($validator->fails()) {
             return back()->withErrors($validator)->withInput();
@@ -25,6 +26,7 @@ class MessageController extends Controller
         $message = new Message;
         $message->name = request('name');
         $message->email = request('email');
+        $message->tel = request('tel');
         $message->subject = request('subject');
         $message->message = request('message');
         $message->save();
