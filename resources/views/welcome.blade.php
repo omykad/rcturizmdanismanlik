@@ -504,11 +504,11 @@
                         </div>
                         <div>
                            <i class="ri-phone-line"></i>
-                           <p>Rahmi Yılmaz <a href="tel:+905324618551">+90(532)4618551</a></p>
+                           <p>Rahmi Yılmaz <a href="tel:+905324618551">0(532) 461 85 51</a></p>
                         </div>
                         <div>
                            <i class="ri-phone-line"></i>
-                           <p>Candan Kadıoğlu <a href="tel:+905327980534">+90(532)7980534</a></p>
+                           <p>Candan Kadıoğlu <a href="tel:+905327980534">0(532) 798 05 34</a></p>
                         </div>
                      </div>
                   </div>
