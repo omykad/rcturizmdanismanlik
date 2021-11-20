@@ -15,6 +15,11 @@ class CreateMessageTableFoo extends Migration
     {
         Schema::create('Message', function (Blueprint $table) {
             $table->id();
+            $table->string('name');
+            $table->string('email');
+            $table->string('tel');
+            $table->string('subject');
+            $table->longText('message');
             $table->timestamps();
         });
     }
