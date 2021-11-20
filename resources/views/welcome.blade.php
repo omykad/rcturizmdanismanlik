@@ -500,7 +500,7 @@
                         </div>
                         <div>
                            <i class="ri-mail-send-line"></i>
-                           <p>bilgi@rcturizmdanismanlik.com</p>
+                           <p>info@rcturizmdanismanlik.com</p>
                         </div>
                         <div>
                            <i class="ri-phone-line"></i>
