@@ -496,7 +496,7 @@
                      <div class="info">
                         <div>
                            <i class="ri-map-pin-line"></i>
-                           <p>Izmir</p>
+                           <p>İnönü Caddesi No:682/B Konak/İzmir</p>
                         </div>
                         <div>
                            <i class="ri-mail-send-line"></i>
