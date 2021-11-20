@@ -34,6 +34,6 @@ class MessageController extends Controller
     }
 
     public function sendOrderConfirmationMail($message){
-        Mail::to('kadioglufomer@gmail.com')->send(new ReceiveMessage($message));
+        Mail::to('info@rcturizmdanismanlik.com')->send(new ReceiveMessage($message));
     }
 }
