@@ -502,7 +502,7 @@
                         </div>
                         <div>
                            <i class="ri-mail-send-line"></i>
-                           <a href="mailto:info@rcturizmdanismanlik.com">info@rcturizmdanismanlik.com</a>
+                           <a href="mailto:info@rcturizmdanismanlik.com" style="margin-left:10px">info@rcturizmdanismanlik.com</a>
                         </div><br>
                         <div>
                            <i class="ri-phone-line"></i>

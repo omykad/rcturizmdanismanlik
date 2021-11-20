@@ -19,12 +19,12 @@
     </style>
 </head>
 <body style="overflow-wrap:break-word;text-align: center;margin-right: auto;margin-left: auto;">
-<div style="user-select: none !important;font-size: 42px;font-weight: 500;">RC TURIZM DANISMANLIK</div>
+<div style="user-select: none !important;font-size: 42px;font-weight: 500;">RC TURİZM DANIŞMANLIK</div>
 <br>
 <hr style="width: 80%;">
 <br>
-<div style="font-size: 22px;font-weight: 600;margin-bottom: 2px"> Mesajiniz icin tesekkurler {{$order->name}} </div>
-<div style="font-size: 17px;font-weight: 700;margin:10px 0px 0px 0px">Size en yakin zamanda donuz yapacagiz!</div>
+<div style="font-size: 22px;font-weight: 600;margin-bottom: 2px"> Mesajınız için teşekkürler {{$order->name}} </div>
+<div style="font-size: 17px;font-weight: 700;margin:10px 0px 0px 0px">Size en yakın zamanda dönüş yapacağız!</div>
 <br>
 
 <div style="margin-right: auto; margin-left: auto; ">
@@ -39,16 +39,9 @@
 <hr style="width: 80%;">
 <br>
 
-<div style="padding: 20px">Herhangi bir sorunuzda lutfen <a href="https://www.rcturizmdanismanlik.com/#contact">bize ulasin.</a> </div>
-<div>Saygilarimizla,</div>
-<p><b>RC Turizm Danismanlik</b></p>
-
+<div style="padding: 20px">Herhangi bir sorunuzda lütfen <a href="https://www.rcturizmdanismanlik.com/#contact">bize ulaşın.</a> </div>
+<div>Saygılarımızla,</div>
+<p><b>RC Turizm Danışmanlık</b></p>
 <br>
-<div>
-    <a href="www.rcturizmdanismanlik.com">Kadio</a>
-</div>
-<br>
-<br>
-
 </body>
 </html>
