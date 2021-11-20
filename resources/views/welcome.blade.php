@@ -399,6 +399,7 @@
                       </div>
                       <div class="member-info">
                         <h4>Rahmi Yılmaz</h4>
+                        <a href="mailto:rahmi@rcturizmdanismanlik.com">rahmi@rcturizmdanismanlik.com</a><br>
                       </div>
                     </div>
                   </div>
@@ -414,6 +415,7 @@
                         </div>
                         <div class="member-info">
                            <h4>Candan Kadıoğlu</h4>
+                           <a href="mailto:candan@rcturizmdanismanlik.com">candan@rcturizmdanismanlik.com</a><br>
                         </div>
                      </div>
                   </div>
@@ -500,7 +502,7 @@
                         </div>
                         <div>
                            <i class="ri-mail-send-line"></i>
-                           <p>info@rcturizmdanismanlik.com</p>
+                           <a href="mailto:info@rcturizmdanismanlik.com">info@rcturizmdanismanlik.com</a><br>
                         </div>
                         <div>
                            <i class="ri-phone-line"></i>
