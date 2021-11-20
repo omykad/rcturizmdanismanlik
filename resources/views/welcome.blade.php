@@ -525,7 +525,7 @@
                            <input type="email" class="form-control" name="email" id="email" placeholder="Mail Adresiniz" required>
                         </div>
                         <div class="form-group">
-                           <input type="tel" class="form-control" name="tel" id="tel" placeholder="Telefon Numaranız" required>
+                           <input type="text" class="form-control" name="tel" id="tel" placeholder="Telefon Numaranız" required>
                         </div>
                         <div class="form-group">
                            <input type="text" class="form-control" name="subject" id="subject" placeholder="Konu Başlıgı" required>
