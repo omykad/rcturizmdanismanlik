@@ -505,11 +505,10 @@
                         <div>
                            <i class="ri-phone-line"></i>
                            <p>Rahmi Yılmaz <a href="tel:+905324618551">+90(532)4618551</a></p>
-
                         </div>
                         <div>
                            <i class="ri-phone-line"></i>
-                           <p>Candan Kadıoğlu +905327980534</p>
+                           <p>Candan Kadıoğlu <a href="tel:+905327980534">+90(532)7980534</a></p>
                         </div>
                      </div>
                   </div>
