@@ -47,14 +47,14 @@
          <div class="container">
             <div class="row">
                <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
-                  <h1 data-aos="fade-up">İşinizi Bizimle Büyütün</h1>
+                  <h1 data-aos="fade-up">İŞİNİZİ BİZİMLE BÜYÜTÜN</h1>
                   <h2 data-aos="fade-up">40 yıllık profesyonel deneyimlerimizi sizinle paylaşıyoruz.</h2>
                   <div data-aos="fade-up">
                      <a href="#contact" class="btn-get-started scrollto">Şimdi Başlayın</a>
                   </div>
                </div>
                <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
-                  <img src="/img/first.svg" class="img-fluid animated" alt="rc turizm danismanlik">
+                  <img src="/img/hotel.svg" class="img-fluid animated" alt="rc turizm danismanlik">
                </div>
             </div>
          </div>
@@ -65,11 +65,11 @@
          <section id="clients" class="clients clients">
             <div class="container">
                <div class="section-title" data-aos="fade-up">
-                  <h2>Çalıştığımız Kurumlar</h2>
+                  <h2>ÇALIŞTIĞIMIZ KURUMLAR</h2>
                </div>
                <div class="row justify-content-center" >
                   <div class="col-lg-2 col-md-4 col-12 p-3 pb-sm-0">
-                     <img src="/img/sheraton.png" class="img-fluid" alt="Sheraton Hotel" data-aos="zoom-in">
+                     <img src="/img/sheraton-hotels-resorts-1.svg" class="img-fluid" alt="Sheraton Hotel" data-aos="zoom-in">
                   </div>
                   <div class="col-lg-2 col-md-4 col-12 p-3 pb-sm-0">
                      <img src="/img/hilton.png" class="img-fluid" alt="Hilton Izmir" data-aos="zoom-in" data-aos-delay="100">
@@ -108,12 +108,12 @@
             </div>
             <div class="container mt-5">
                <div class="section-title" data-aos="fade-up">
-                  <h2>Neden Bizi Seçmelisiniz</h2>
+                  <h2>NEDEN BİZİ SEÇMELİSİNİZ</h2>
                </div>
                <div class="row content">
                   <div class="col-lg-6 pt-2 pt-lg-0 m-auto" data-aos="fade-up" data-aos-delay="150">
                      <ul>
-                        <li><i class="ri-check-double-line"></i> Mesleği̇nde uzman ve deneyi̇mli̇ danışmanlarımız ile sizin en doğru yatırımı yapmanızı sağlayacağız.</li>
+                        <li><i class="ri-check-double-line"></i> Mesleğinde uzman ve deneyimli danışmanlarımız ile sizin en doğru yatırımı yapmanızı sağlayacağız. </li>
                         <li><i class="ri-check-double-line"></i> İşletmenizin karşılaşabileceği iyi ve kötü senaryoları öngörecebilecek ve sonrasında gerekli yönlendirmeleri yapacağız.</li>
                         <li><i class="ri-check-double-line"></i> İşletmeniz için düzenli fizibilite çalışması yapacağız. Sonuçları birlikte inceleyecek, algınızı güçlendireceğiz.</li>
                         <li><i class="ri-check-double-line"></i> Size vereceğimiz fikir ve yönlendirmeler doğrultusunda işletmeniz için en sağlıklı, doğru ve gerekli kararları aldırmayı temin ediyoruz. Bu sayede size hem zaman, hem de kazanç sağlayacağız.</li>
@@ -121,7 +121,7 @@
                         <li><i class="ri-check-double-line"></i> Bünyenizde bulunan personellere ve gerekli olduğu durumda personel takviyesi yapacak, onlara işletmenizi en iyi şekilde sergilemeleri ve potansiyellerini ortaya çıkartabilmelerine yönelik eğitimler vereceğiz. 
                            Unutmayın! Kemik kadronuzu ne kadar sağlam yaparsanız, o kadar sağlam temellere sahip olacaksınız ve gözünüz asla geride kalmayacak.
                         </li>
-                        <li><i class="ri-check-double-line"></i> Müşteri profilinizi analiz ederek, ona uygun şekilde çalışmalarda bulunacağız ve müşteri memnuni̇yeti̇ni̇ en üst seviyeye çıkaracağız.</li>
+                        <li><i class="ri-check-double-line"></i> Müşteri profilinizi analiz ederek, ona uygun şekilde çalışmalarda bulunacağız ve müşteri memnuniyetini en üst seviyeye çıkaracağız. </li>
                         <li><i class="ri-check-double-line"></i> Araç-gereç, ekipman ve kılık-kıyafet eğitimlerimizle, çalışanlarınızın verimi gözle görülür şekilde artacak.</li>
                         <li><i class="ri-check-double-line"></i> Sizi doğru tedarikçiler ile buluşturacağız. Harcarken kazanmak, tasarrufun en yalın halidir.</li>
                         <li><i class="ri-check-double-line"></i> İşletmenizde gördüğümüz potansiyeli hayata geçirecek fikirler ile geleceğiz.</li>
@@ -178,7 +178,7 @@
          <section id="services" class="features">
             <div class="container">
                <div class="section-title" data-aos="fade-up">
-                  <h2>Hizmetlerimiz</h2>
+                  <h2>HİZMETLERİMİZ</h2>
                </div>
                <div class="row" data-aos="fade-up" data-aos-delay="300">
                   <div class="col-lg-3 col-md-4 mt-4 position-relative px-1">
@@ -380,7 +380,7 @@
          <section id="team" class="team section-bg">
             <div class="container">
                <div class="section-title" data-aos="fade-up">
-                  <h2>Takımımız</h2>
+                  <h2>TAKIMIMIZ</h2>
                </div>
                <div class="row">
                   <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -447,7 +447,7 @@
                <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                   <div class="col-lg-5">
                      <i class="ri-question-line"></i>
-                     <h4><b>Kurulmuş i̇şletmelere hi̇zmet veri̇yor musunuz??</b></h4>
+                     <h4><b>Kurulmuş işletmelere hizmet veriyor musunuz?</b></h4>
                   </div>
                   <div class="col-lg-7">
                      <p>
@@ -475,7 +475,7 @@
          <section id="contact" class="contact">
             <div class="container">
                <div class="section-title" data-aos="fade-up">
-                  <h2>Bize Ulaşın</h2>
+                  <h2>BİZE ULAŞIN</h2>
                </div>
                <div class="row">
                   <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
@@ -504,7 +504,11 @@
                         </div>
                         <div>
                            <i class="ri-phone-line"></i>
-                           <p>+905327980534</p>
+                           <p>Rahmi Yılmaz +905324618551</p>
+                        </div>
+                        <div>
+                           <i class="ri-phone-line"></i>
+                           <p>Candan Kadıoğlu +905327980534</p>
                         </div>
                      </div>
                   </div>
